@@ -1,0 +1,529 @@
+order_id,order_date,order_time,customer_id,customer_name,region,city,salesperson,category,product_name,sku_id,quantity,unit_price,discount_pct,return_flag,payment_method,channel
+ORD-20260624-0499,2026-06-24,16:51:53,CUST0238,Shweta Mishra,North,Lucknow,Nikhil Joshi,Dairy,Amul Ice Cream 750ml,DAI-006,33,195,0,No,Cash,In-Store
+ORD-20260624-0018,2026-06-24,16:02:36,CUST0187,Ramesh Kumar,South,Bangalore,Priya Sharma,Beverages,Tropicana Orange 1L,BEV-001,7,95,5,No,Cash,In-Store
+ORD-20260624-0134,2026-06-24,16:50:09,CUST0137,Kavya Nair,South,Bangalore,Nikhil Joshi,Household,Vim Dishwash Gel 500ml,HH-002,9,90,0,No,Cash,In-Store
+ORD-20260624-0319,2026-06-24,16:32:33,CUST0143,Priya Singh,South,Hyderabad,Arjun Mehta,Snacks,Haldirams Bhujia 400g,SNK-005,81,130,15,No,Card,In-Store
+ORD-20260624-0141,2026-06-24,10:26:31,CUST0008,Rahul Nair,West,Ahmedabad,Sneha Iyer,Dairy,Nestle Munch Milkshake,DAI-004,45,30,10,No,Credit,Distributor
+ORD-20260624-0168,2026-06-24,20:42:48,CUST0010,Geeta Nair,South,Bangalore,Karan Patel,Beverages,Nescafe Classic 50g,BEV-005,13,210,15,No,UPI,In-Store
+ORD-20260624-0119,2026-06-24,17:31:48,CUST0153,Shweta Das,West,Pune,Anjali Rao,Snacks,Maggi Noodles 70g,SNK-006,55,14,0,No,Cash,In-Store
+ORD-20260624-0365,2026-06-24,12:55:06,CUST0070,Sunita Iyer,West,Pune,Pooja Verma,Dairy,Britannia Cheese Slice,DAI-005,12,115,15,No,Card,Online
+ORD-20260624-0511,2026-06-24,17:52:53,CUST0286,Rahul Pillai,North,Chandigarh,Rohan Das,Beverages,Tropicana Orange 1L,BEV-001,6,95,0,No,UPI,In-Store
+ORD-20260624-0360,2026-06-24,13:07:44,CUST0172,Usha Kumar,North,Lucknow,Nikhil Joshi,Personal Care,Head & Shoulders 340ml,PC-002,4,290,5,No,Card,Distributor
+ORD-20260624-0063,2026-06-24,13:40:10,CUST0090,Suresh Pillai,West,Pune,Vikram Singh,Personal Care,Dove Soap 100g,PC-001,25,55,0,No,Cash,Distributor
+ORD-20260624-0179,2026-06-24,17:46:23,CUST0108,Meena Shah,West,Pune,Divya Nair,Household,Scotch Brite Scrub Pad,HH-006,28,45,0,No,UPI,In-Store
+ORD-20260624-0359,2026-06-24,19:32:40,CUST0063,Sanjay Mishra,South,Kochi,Sneha Iyer,Beverages,Bisleri Water 1L,BEV-004,13,20,0,No,Credit,Distributor
+ORD-20260624-0510,2026-06-24,16:02:18,CUST0046,Sanjay Mehta,East,Kolkata,Divya Nair,Snacks,Lays Classic 90g,SNK-001,59,30,15,Yes,Cash,Distributor
+ORD-20260624-0272,2026-06-24,14:22:10,CUST0064,Rekha Reddy,North,Chandigarh,Arjun Mehta,Snacks,Maggi Noodles 70g,SNK-006,30,14,15,No,Card,In-Store
+ORD-20260624-0403,2026-06-24,19:13:49,CUST0170,Vikram Mehta,West,Mumbai,Anjali Rao,Snacks,Hide & Seek Cookies 150g,SNK-003,104,55,0,No,Credit,Distributor
+ORD-20260624-0209,2026-06-24,12:24:07,CUST0159,Ravi Patel,East,Patna,Divya Nair,Personal Care,Dove Soap 100g,PC-001,14,55,0,No,Card,Online
+ORD-20260624-0185,2026-06-24,13:28:35,CUST0086,Rahul Shah,South,Kochi,Anjali Rao,Household,Ariel Detergent 1kg,HH-001,41,220,5,No,Cash,Distributor
+ORD-20260624-0447,2026-06-24,10:34:45,CUST0066,Geeta Sharma,West,Mumbai,Priya Sharma,Household,Lizol Floor Cleaner 1L,HH-003,20,175,15,No,Card,Distributor
+ORD-20260624-0291,2026-06-24,13:01:10,CUST0252,Shweta Iyer,,Lucknow,Arjun Mehta,Beverages,Bisleri Water 1L,BEV-004,17,20,5,No,Credit,Distributor
+ORD-20260624-0206,2026-06-24,14:31:38,CUST0206,Anita Joshi,South,Hyderabad,Pooja Verma,Beverages,Maaza Mango 600ml,BEV-002,31,40,10,No,UPI,Online
+ORD-20260624-0355,2026-06-24,13:25:53,CUST0220,Rekha Pillai,North,Delhi,Karan Patel,Snacks,Lays Classic 90g,SNK-001,38,30,5,No,UPI,In-Store
+ORD-20260624-0227,2026-06-24,09:13:46,CUST0127,Rahul Joshi,North,Chandigarh,Sneha Iyer,Personal Care,Gillette Mach3 Razor,PC-006,3,350,15,Yes,UPI,Online
+ORD-20260624-0298,2026-06-24,15:50:15,CUST0069,Sunil Das,North,Delhi,Karan Patel,Dairy,Nestle Munch Milkshake,DAI-004,19,30,5,No,Card,Distributor
+ORD-20260624-0034,2026-06-24,16:22:19,CUST0079,Deepa Sharma,South,Hyderabad,Divya Nair,Beverages,Red Bull 250ml,BEV-003,38,125,5,No,Cash,In-Store
+ORD-20260624-0001,2026-06-24,15:51:52,CUST0297,Anita Joshi,South,Chennai,Arjun Mehta,Dairy,Amul Butter 500g,DAI-002,64,260,5,No,Card,Distributor
+ORD-20260624-0054,2026-06-24,19:01:05,CUST0116,Priya Mishra,East,Bhubaneswar,Rohan Das,Beverages,Tropicana Orange 1L,BEV-001,22,95,0,No,Credit,Distributor
+ORD-20260624-0287,2026-06-24,16:46:49,CUST0058,Rahul Verma,West,Surat,Anjali Rao,Dairy,Nestle Munch Milkshake,DAI-004,59,30,0,No,Card,Distributor
+ORD-20260624-0425,2026-06-24,14:22:25,CUST0010,Geeta Nair,North,Jaipur,Sneha Iyer,Beverages,Bisleri Water 1L,BEV-004,19,20,5,No,Credit,Distributor
+ORD-20260624-0239,2026-06-24,14:26:52,CUST0275,Manoj Shah,North,Jaipur,Arjun Mehta,Personal Care,Dettol Hand Wash 250ml,PC-005,11,95,0,No,UPI,In-Store
+ORD-20260624-0062,2026-06-24,09:49:05,CUST0287,Pooja Das,West,Ahmedabad,Rohan Das,Snacks,Good Day Biscuits 200g,SNK-004,23,45,0,No,Card,In-Store
+ORD-20260624-0416,2026-06-24,10:43:27,CUST0179,Rahul Pillai,Central,Nagpur,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,9,125,0,No,UPI,In-Store
+ORD-20260624-0240,2026-06-24,16:17:32,CUST0252,Shweta Iyer,Central,Nagpur,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,3,45,0,No,Card,Online
+ORD-20260624-0281,2026-06-24,13:29:34,CUST0191,Priya Iyer,Central,Bhopal,Vikram Singh,Beverages,Tropicana Orange 1L,BEV-001,11,95,5,No,Card,Online
+ORD-20260624-0046,2026-06-24,13:57:54,CUST0252,Shweta Iyer,West,Surat,Rohan Das,Personal Care,Gillette Mach3 Razor,PC-006,6,350,10,No,Card,In-Store
+ORD-20260624-0163,2026-06-24,13:09:04,CUST0111,Shweta Pillai,South,Chennai,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,29,125,0,No,Credit,Distributor
+ORD-20260624-0122,2026-06-24,11:23:58,CUST0179,Rahul Pillai,Central,Nagpur,Priya Sharma,Personal Care,Nivea Lotion 200ml,PC-004,4,220,0,No,Card,Online
+ORD-20260624-0109,2026-06-24,13:10:54,CUST0187,Ramesh Kumar,South,Bangalore,Priya Sharma,Beverages,Glucon-D 500g,BEV-006,20,165,5,No,UPI,In-Store
+ORD-20260624-0421,2026-06-24,17:25:47,CUST0004,Vikram Patel,Central,Indore,Arjun Mehta,Dairy,Britannia Cheese Slice,DAI-005,33,115,5,No,UPI,In-Store
+ORD-20260624-0057,2026-06-24,15:31:51,CUST0293,Anita Sharma,East,Kolkata,Arjun Mehta,Beverages,Red Bull 250ml,BEV-003,9,125,0,No,Card,In-Store
+ORD-20260624-0444,2026-06-24,10:16:36,CUST0092,Ramesh Iyer,West,Surat,Divya Nair,Snacks,Lays Classic 90g,SNK-001,79,30,0,No,Card,Distributor
+ORD-20260624-0323,2026-06-24,16:11:31,CUST0279,Meena Mehta,South,Hyderabad,Karan Patel,Snacks,Maggi Noodles 70g,SNK-006,45,14,0,No,Cash,In-Store
+ORD-20260624-0031,2026-06-24,18:58:26,CUST0218,Ajay Mehta,East,Kolkata,Anjali Rao,Personal Care,Nivea Lotion 200ml,PC-004,5,220,0,No,Cash,In-Store
+ORD-20260624-0382,2026-06-24,10:36:03,CUST0197,Rekha Kumar,South,Hyderabad,Pooja Verma,Household,Good Knight Refill,HH-005,19,75,15,No,UPI,In-Store
+ORD-20260624-0027,2026-06-24,16:26:35,CUST0050,Sanjay Reddy,Central,Bhopal,Rohan Das,Dairy,Nestle Munch Milkshake,DAI-004,18,30,5,No,Card,In-Store
+ORD-20260624-0302,2026-06-24,17:00:26,CUST0200,Amit Rao,South,Chennai,Anjali Rao,Household,Good Knight Refill,HH-005,4,75,5,No,UPI,Online
+ORD-20260624-0254,2026-06-24,10:02:36,CUST0118,Sunita Joshi,South,Chennai,Anjali Rao,Beverages,Tropicana Orange 1L,BEV-001,54,95,0,No,Credit,Distributor
+ORD-20260624-0390,2026-06-24,16:45:05,CUST0232,Manoj Iyer,North,Chandigarh,Rohan Das,Snacks,Maggi Noodles 70g,SNK-006,22,14,5,No,UPI,In-Store
+ORD-20260624-0047,2026-06-24,13:18:38,CUST0037,Ramesh Singh,South,Kochi,Arjun Mehta,Snacks,Lays Classic 90g,SNK-001,75,30,0,No,Cash,In-Store
+ORD-20260624-0363,2026-06-24,20:32:40,CUST0104,Rahul Joshi,West,Pune,Divya Nair,Household,Good Knight Refill,HH-005,20,75,0,No,Credit,In-Store
+ORD-20260624-0397,2026-06-24,18:57:15,CUST0263,Sunita Pillai,West,Ahmedabad,Karan Patel,Dairy,Britannia Cheese Slice,DAI-005,5,115,5,No,Cash,In-Store
+ORD-20260624-0007,2026-06-24,14:30:21,CUST0074,Manoj Rao,South,Chennai,Priya Sharma,Dairy,Amul Ice Cream 750ml,DAI-006,49,195,5,No,UPI,In-Store
+ORD-20260624-0506,2026-06-24,17:32:07,CUST0237,Raj Pillai,Central,Raipur,Sneha Iyer,Snacks,Good Day Biscuits 200g,SNK-004,13,45,0,No,UPI,In-Store
+ORD-20260624-0110,2026-06-24,10:23:27,CUST0283,Meena Mishra,South,Chennai,Divya Nair,Snacks,Maggi Noodles 70g,SNK-006,27,14,15,No,UPI,Online
+ORD-20260624-0029,2026-06-24,17:07:38,CUST0103,Priya Das,West,Mumbai,Priya Sharma,Household,Scotch Brite Scrub Pad,HH-006,11,45,0,No,Card,Distributor
+ORD-20260624-0264,2026-06-24,19:11:40,CUST0077,Sunil Nair,West,Surat,Arjun Mehta,Beverages,Red Bull 250ml,BEV-003,54,125,10,No,UPI,In-Store
+ORD-20260624-0487,2026-06-24,19:27:45,CUST0079,Deepa Sharma,North,Lucknow,Priya Sharma,Beverages,Glucon-D 500g,BEV-006,29,165,0,No,UPI,Online
+ORD-20260624-0102,2026-06-24,09:14:57,CUST0059,Sunita Kumar,South,Chennai,Divya Nair,Household,Harpic Toilet Cleaner,HH-004,15,140,5,No,UPI,Online
+ORD-20260624-0433,2026-06-24,16:41:40,CUST0066,Geeta Sharma,West,Mumbai,Pooja Verma,Dairy,Mother Dairy Curd 400g,DAI-003,41,50,5,No,UPI,Distributor
+ORD-20260624-0451,2026-06-24,19:44:12,CUST0192,Neha Verma,West,Pune,Nikhil Joshi,Household,Lizol Floor Cleaner 1L,HH-003,8,175,0,No,Credit,Distributor
+ORD-20260624-0242,2026-06-24,19:28:37,CUST0027,Ajay Nair,West,Surat,Priya Sharma,Personal Care,Dettol Hand Wash 250ml,PC-005,11,95,5,No,UPI,In-Store
+ORD-20260624-0157,2026-06-24,15:24:37,CUST0142,Manoj Rao,East,Guwahati,Divya Nair,Household,Ariel Detergent 1kg,HH-001,6,220,0,No,Card,Online
+ORD-20260624-0306,2026-06-24,12:03:45,CUST0013,Ajay Mehta,South,Chennai,Priya Sharma,Household,Ariel Detergent 1kg,HH-001,10,220,0,No,Card,In-Store
+ORD-20260624-0173,2026-06-24,10:55:35,CUST0223,Sanjay Nair,East,Patna,Priya Sharma,Household,Ariel Detergent 1kg,HH-001,5,220,0,No,Credit,Distributor
+ORD-20260624-0516,2026-06-24,18:09:00,CUST0094,Ravi Reddy,East,Kolkata,Sneha Iyer,Snacks,Kurkure Masala 90g,SNK-002,40,30,10,No,Credit,Distributor
+ORD-20260624-0326,2026-06-24,18:24:03,CUST0298,Suresh Pillai,West,Mumbai,Karan Patel,Beverages,Nescafe Classic 50g,BEV-005,15,210,0,No,UPI,In-Store
+ORD-20260624-0469,2026-06-24,15:13:32,CUST0158,Rahul Sharma,East,Kolkata,Karan Patel,Beverages,Glucon-D 500g,BEV-006,24,165,10,No,UPI,In-Store
+ORD-20260624-0072,2026-06-24,14:38:48,CUST0015,Ramesh Pillai,South,Bangalore,Sneha Iyer,Snacks,Hide & Seek Cookies 150g,SNK-003,73,55,10,No,UPI,In-Store
+ORD-20260624-0175,2026-06-24,16:57:14,CUST0169,Shweta Patel,Central,Raipur,Nikhil Joshi,Snacks,Hide & Seek Cookies 150g,SNK-003,36,55,10,No,UPI,Online
+ORD-20260624-0113,2026-06-24,17:35:00,CUST0045,Priya Das,South,Bangalore,Sneha Iyer,Dairy,Amul Butter 500g,DAI-002,55,260,5,No,Cash,Distributor
+ORD-20260624-0061,2026-06-24,09:33:32,CUST0104,Rahul Joshi,West,Pune,Arjun Mehta,Beverages,Nescafe Classic 50g,BEV-005,14,210,0,No,Card,Online
+ORD-20260624-0075,2026-06-24,20:10:42,CUST0243,Raj Pillai,East,Patna,Pooja Verma,Snacks,Kurkure Masala 90g,SNK-002,22,30,5,No,Cash,In-Store
+ORD-20260624-0441,2026-06-24,14:48:10,CUST0100,Amit Singh,South,Kochi,Nikhil Joshi,Personal Care,Dove Soap 100g,PC-001,17,55,5,No,Cash,In-Store
+ORD-20260624-0026,2026-06-24,12:51:36,CUST0188,Geeta Verma,West,Mumbai,Divya Nair,Dairy,Amul Butter 500g,DAI-002,13,260,0,No,UPI,In-Store
+ORD-20260624-0142,2026-06-24,14:42:35,CUST0285,Ramesh Nair,West,Pune,Nikhil Joshi,Household,Ariel Detergent 1kg,HH-001,7,220,0,No,UPI,Online
+ORD-20260624-0045,2026-06-24,20:02:43,CUST0132,Sanjay Sharma,West,Mumbai,Pooja Verma,Personal Care,Dettol Hand Wash 250ml,PC-005,6,95,0,No,UPI,Distributor
+ORD-20260624-0367,2026-06-24,17:05:37,CUST0161,Manoj Mehta,North,Delhi,Nikhil Joshi,Beverages,Maaza Mango 600ml,BEV-002,22,40,15,No,Credit,Distributor
+ORD-20260624-0136,2026-06-24,19:49:03,CUST0225,Ramesh Pillai,South,Kochi,Anjali Rao,Dairy,Nestle Munch Milkshake,DAI-004,46,30,0,No,Card,Distributor
+ORD-20260624-0480,2026-06-24,13:01:44,CUST0060,Sunil Rao,West,Surat,Pooja Verma,Personal Care,Gillette Mach3 Razor,PC-006,10,350,15,No,Cash,Online
+ORD-20260624-0338,2026-06-24,20:26:24,CUST0175,Ramesh Das,East,Guwahati,Sneha Iyer,Personal Care,Nivea Lotion 200ml,PC-004,25,220,0,No,UPI,Distributor
+ORD-20260624-0471,2026-06-24,20:50:11,CUST0034,Deepa Gupta,North,Jaipur,Karan Patel,Household,Vim Dishwash Gel 500ml,HH-002,4,90,0,No,UPI,In-Store
+ORD-20260624-0299,2026-06-24,09:27:52,CUST0136,Vikram Nair,South,Bangalore,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,35,45,5,No,Credit,Distributor
+ORD-20260624-0216,2026-06-24,18:38:43,CUST0277,Suresh Reddy,West,Pune,Priya Sharma,Snacks,Maggi Noodles 70g,SNK-006,26,14,15,No,Card,Online
+ORD-20260624-0236,2026-06-24,16:45:43,CUST0010,Geeta Nair,North,Lucknow,Karan Patel,Personal Care,Dove Soap 100g,PC-001,6,55,0,No,Cash,In-Store
+ORD-20260624-0241,2026-06-24,15:25:03,CUST0261,Meena Kumar,West,Mumbai,Anjali Rao,Beverages,Glucon-D 500g,BEV-006,27,165,5,No,Card,Online
+ORD-20260624-0514,2026-06-24,09:21:51,CUST0244,Ajay Das,East,Guwahati,Sneha Iyer,Personal Care,Gillette Mach3 Razor,PC-006,17,350,0,No,Credit,Distributor
+ORD-20260624-0137,2026-06-24,12:23:53,CUST0045,Priya Das,North,Chandigarh,Karan Patel,Snacks,Good Day Biscuits 200g,SNK-004,34,45,10,No,Credit,In-Store
+ORD-20260624-0489,2026-06-24,19:25:34,CUST0118,Sunita Joshi,South,Kochi,Priya Sharma,Dairy,Amul Butter 500g,DAI-002,13,260,0,No,Cash,Distributor
+ORD-20260624-0110,2026-06-24,10:23:27,CUST0283,Meena Mishra,South,Chennai,Divya Nair,Snacks,Maggi Noodles 70g,SNK-006,27,14,15,No,UPI,Online
+ORD-20260624-0430,2026-06-24,16:54:19,CUST0162,Vikram Gupta,Central,Raipur,Divya Nair,Household,Lizol Floor Cleaner 1L,HH-003,23,175,0,No,Card,Distributor
+ORD-20260624-0496,2026-06-24,15:38:07,CUST0205,Sanjay Verma,East,Bhubaneswar,Pooja Verma,Dairy,Nestle Munch Milkshake,DAI-004,42,30,10,No,Credit,Distributor
+ORD-20260624-0399,2026-06-24,11:50:17,CUST0122,Deepa Mehta,West,Ahmedabad,Sneha Iyer,Personal Care,Colgate Toothpaste 200g,PC-003,20,110,0,No,UPI,In-Store
+ORD-20260624-0105,2026-06-24,10:58:58,CUST0043,Shweta Das,East,Kolkata,Anjali Rao,Beverages,Nescafe Classic 50g,BEV-005,22,210,0,No,UPI,In-Store
+ORD-20260624-0328,2026-06-24,13:24:03,CUST0085,Ajay Singh,South,Kochi,Sneha Iyer,Snacks,Good Day Biscuits 200g,SNK-004,79,45,0,No,Card,Distributor
+ORD-20260624-0140,2026-06-24,20:41:27,CUST0187,Ramesh Kumar,North,Lucknow,Arjun Mehta,Household,Ariel Detergent 1kg,HH-001,30,220,15,No,UPI,Distributor
+ORD-20260624-0439,2026-06-24,10:08:00,CUST0067,Shweta Patel,West,Ahmedabad,Arjun Mehta,Beverages,Bisleri Water 1L,BEV-004,9,20,0,No,UPI,Online
+ORD-20260624-0050,2026-06-24,11:31:43,CUST0127,Rahul Joshi,North,Chandigarh,Sneha Iyer,Personal Care,Head & Shoulders 340ml,PC-002,5,290,0,No,Card,Online
+ORD-20260624-0488,2026-06-24,12:55:29,CUST0022,Priya Reddy,Central,Indore,Rohan Das,Personal Care,Nivea Lotion 200ml,PC-004,19,220,0,No,Credit,Distributor
+ORD-20260624-0121,2026-06-24,15:29:39,CUST0277,Suresh Reddy,East,Kolkata,Arjun Mehta,Personal Care,Colgate Toothpaste 200g,PC-003,8,110,0,No,Card,In-Store
+ORD-20260624-0268,2026-06-24,14:45:10,CUST0142,Manoj Rao,South,Chennai,Vikram Singh,Snacks,Kurkure Masala 90g,SNK-002,40,30,5,No,Card,In-Store
+ORD-20260624-0066,2026-06-24,14:23:19,CUST0179,Rahul Pillai,West,Mumbai,Sneha Iyer,Household,Lizol Floor Cleaner 1L,HH-003,44,175,0,No,Credit,Distributor
+ORD-20260624-0426,2026-06-24,12:13:23,CUST0233,Shweta Pillai,North,Jaipur,Anjali Rao,Beverages,Maaza Mango 600ml,BEV-002,24,40,5,No,UPI,In-Store
+ORD-20260624-0176,2026-06-24,16:30:59,CUST0300,Sanjay Das,South,Chennai,Nikhil Joshi,Household,Ariel Detergent 1kg,HH-001,6,220,0,No,Cash,Online
+ORD-20260624-0088,2026-06-24,17:08:49,CUST0178,Suresh Verma,West,Surat,Pooja Verma,Dairy,Britannia Cheese Slice,DAI-005,25,115,0,No,Credit,Online
+ORD-20260624-0126,2026-06-24,12:50:06,CUST0259,Ramesh Mishra,South,Kochi,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,19,125,5,No,Card,In-Store
+ORD-20260624-0515,2026-06-24,11:39:44,CUST0093,Sanjay Gupta,Central,Bhopal,Arjun Mehta,Dairy,Amul Ice Cream 750ml,DAI-006,7,195,0,No,UPI,Online
+ORD-20260624-0372,2026-06-24,20:17:01,CUST0056,Neha Joshi,East,Patna,Divya Nair,Personal Care,Dettol Hand Wash 250ml,PC-005,2,95,0,No,UPI,Online
+ORD-20260624-0396,2026-06-24,12:50:22,CUST0271,Geeta Reddy,East,Patna,Rohan Das,Beverages,Bisleri Water 1L,BEV-004,43,20,15,No,Credit,Distributor
+ORD-20260624-0132,2026-06-24,16:10:30,CUST0208,Neha Iyer,Central,Indore,Anjali Rao,Beverages,Tropicana Orange 1L,BEV-001,29,95,5,No,UPI,Distributor
+ORD-20260624-0208,2026-06-24,14:54:14,CUST0290,Raj Pillai,South,Chennai,Divya Nair,Snacks,Maggi Noodles 70g,SNK-006,89,14,5,No,Card,Distributor
+ORD-20260624-0290,2026-06-24,16:46:08,CUST0047,Rahul Nair,North,Chandigarh,Sneha Iyer,Dairy,Britannia Cheese Slice,DAI-005,21,115,10,No,Cash,In-Store
+ORD-20260624-0203,2026-06-24,20:47:43,CUST0231,Usha Iyer,West,Surat,Divya Nair,Dairy,Nestle Munch Milkshake,DAI-004,17,30,10,No,Card,Online
+ORD-20260624-0315,2026-06-24,12:55:56,CUST0206,Anita Joshi,East,Guwahati,Nikhil Joshi,Snacks,Good Day Biscuits 200g,SNK-004,29,45,0,No,UPI,Online
+ORD-20260624-0292,2026-06-24,14:42:06,CUST0061,Shweta Pillai,Central,Nagpur,Pooja Verma,Dairy,Britannia Cheese Slice,DAI-005,20,115,0,No,Card,In-Store
+ORD-20260624-0386,2026-06-24,12:02:45,CUST0004,Vikram Patel,Central,Nagpur,Sneha Iyer,Dairy,Britannia Cheese Slice,DAI-005,16,115,0,No,Card,Distributor
+ORD-20260624-0339,2026-06-24,15:50:26,CUST0269,Shweta Das,East,Kolkata,Pooja Verma,Personal Care,Head & Shoulders 340ml,PC-002,7,290,10,No,Card,In-Store
+ORD-20260624-0336,2026-06-24,17:36:36,CUST0262,Sunil Sharma,West,Surat,Sneha Iyer,Snacks,Lays Classic 90g,SNK-001,92,30,5,No,Card,Distributor
+ORD-20260624-0154,2026-06-24,18:08:29,CUST0082,Sunita Gupta,Central,Indore,Arjun Mehta,Personal Care,Dettol Hand Wash 250ml,PC-005,3,95,0,No,UPI,In-Store
+ORD-20260624-0473,2026-06-24,14:55:58,CUST0278,Rahul Iyer,,Nagpur,Anjali Rao,Snacks,Haldirams Bhujia 400g,SNK-005,46,130,0,No,UPI,In-Store
+ORD-20260624-0150,2026-06-24,14:57:05,CUST0272,Deepa Shah,South,Hyderabad,Anjali Rao,Household,Vim Dishwash Gel 500ml,HH-002,14,90,10,No,Card,Online
+ORD-20260624-0449,2026-06-24,17:33:34,CUST0045,Priya Das,Central,Indore,Divya Nair,Snacks,Kurkure Masala 90g,SNK-002,46,30,0,No,Credit,Distributor
+ORD-20260624-0498,2026-06-24,13:49:10,CUST0006,Ajay Pillai,South,Hyderabad,Arjun Mehta,Personal Care,Gillette Mach3 Razor,PC-006,12,350,5,No,Cash,Online
+ORD-20260624-0004,2026-06-24,10:02:22,CUST0050,Sanjay Reddy,South,Hyderabad,Arjun Mehta,Beverages,Bisleri Water 1L,BEV-004,71,20,0,No,Cash,Distributor
+ORD-20260624-0412,2026-06-24,10:39:53,CUST0217,Suresh Rao,Central,Raipur,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,31,125,15,No,Card,In-Store
+ORD-20260624-0255,2026-06-24,13:56:38,CUST0134,Ravi Iyer,South,Hyderabad,Nikhil Joshi,Beverages,Bisleri Water 1L,BEV-004,-8,20,0,No,Card,In-Store
+ORD-20260624-0505,2026-06-24,20:07:11,CUST0130,Raj Mishra,South,Bangalore,Arjun Mehta,Snacks,Hide & Seek Cookies 150g,SNK-003,63,55,0,No,Cash,In-Store
+ORD-20260624-0229,2026-06-24,14:53:55,CUST0282,Vikram Kumar,Central,Indore,Rohan Das,Dairy,Mother Dairy Curd 400g,DAI-003,8,50,0,No,Card,Online
+ORD-20260624-0065,2026-06-24,16:12:49,CUST0081,Anita Sharma,East,Guwahati,Anjali Rao,Household,Scotch Brite Scrub Pad,HH-006,23,45,15,No,Cash,In-Store
+ORD-20260624-0483,2026-06-24,11:57:50,CUST0157,Ravi Das,East,Patna,Divya Nair,Snacks,Hide & Seek Cookies 150g,SNK-003,34,55,5,No,UPI,In-Store
+ORD-20260624-0074,2026-06-24,19:34:12,CUST0039,Geeta Joshi,East,Bhubaneswar,Anjali Rao,Beverages,Bisleri Water 1L,BEV-004,29,20,10,No,Cash,Distributor
+ORD-20260624-0085,2026-06-24,19:44:57,CUST0182,Vikram Mehta,Central,Nagpur,Sneha Iyer,Household,Vim Dishwash Gel 500ml,HH-002,9,90,5,No,Card,In-Store
+ORD-20260624-0177,2026-06-24,16:31:57,CUST0230,Shweta Patel,West,Surat,Vikram Singh,Household,Good Knight Refill,HH-005,10,75,0,No,Card,Online
+ORD-20260624-0188,2026-06-24,11:52:18,CUST0049,Raj Shah,East,Patna,Arjun Mehta,Beverages,Bisleri Water 1L,BEV-004,51,20,0,No,Credit,Distributor
+ORD-20260624-0114,2026-06-24,19:15:14,CUST0268,Vikram Reddy,West,Surat,Nikhil Joshi,Household,Ariel Detergent 1kg,HH-001,5,220,0,No,Card,Distributor
+ORD-20260624-0250,2026-06-24,09:19:47,CUST0236,Geeta Kumar,South,Hyderabad,Nikhil Joshi,Snacks,Good Day Biscuits 200g,SNK-004,32,45,15,No,Card,Online
+ORD-20260624-0295,2026-06-24,15:10:14,CUST0118,Sunita Joshi,East,Bhubaneswar,Karan Patel,Beverages,Tropicana Orange 1L,BEV-001,19,95,5,No,UPI,Online
+ORD-20260624-0422,2026-06-24,19:11:01,CUST0297,Anita Joshi,North,Delhi,Sneha Iyer,Dairy,Britannia Cheese Slice,DAI-005,24,115,0,No,UPI,In-Store
+ORD-20260624-0450,2026-06-24,10:11:44,CUST0061,Shweta Pillai,South,Bangalore,Divya Nair,Dairy,Mother Dairy Curd 400g,DAI-003,61,50,15,No,Credit,Distributor
+ORD-20260624-0050,2026-06-24,11:31:43,CUST0127,Rahul Joshi,North,Chandigarh,Sneha Iyer,Personal Care,Head & Shoulders 340ml,PC-002,5,290,0,No,Card,Online
+ORD-20260624-0042,2026-06-24,12:09:20,CUST0104,Rahul Joshi,West,Surat,Arjun Mehta,Dairy,Amul Full Cream Milk 1L,DAI-001,44,68,10,No,Cash,In-Store
+ORD-20260624-0243,2026-06-24,18:05:12,CUST0003,Meena Joshi,North,Lucknow,Arjun Mehta,Personal Care,Nivea Lotion 200ml,PC-004,20,220,0,No,UPI,Distributor
+ORD-20260624-0361,2026-06-24,12:52:59,CUST0044,Priya Joshi,South,Chennai,Arjun Mehta,Household,Ariel Detergent 1kg,HH-001,33,220,5,No,Credit,Distributor
+ORD-20260624-0076,2026-06-24,11:41:46,CUST0061,Shweta Pillai,Central,Raipur,Divya Nair,Beverages,Tropicana Orange 1L,BEV-001,27,95,0,No,Credit,Distributor
+ORD-20260624-0301,2026-06-24,20:52:35,CUST0073,Usha Mehta,Central,Indore,Sneha Iyer,Dairy,Mother Dairy Curd 400g,DAI-003,29,50,0,No,Cash,In-Store
+ORD-20260624-0373,2026-06-24,20:21:53,CUST0124,Rahul Reddy,West,Surat,Nikhil Joshi,Beverages,Tropicana Orange 1L,BEV-001,30,95,10,No,Cash,In-Store
+ORD-20260624-0235,2026-06-24,12:17:43,CUST0126,Priya Sharma,East,Kolkata,Nikhil Joshi,Beverages,Tropicana Orange 1L,BEV-001,19,95,0,No,Card,Online
+ORD-20260624-0274,2026-06-24,16:54:13,CUST0173,,South,Kochi,Divya Nair,Snacks,Maggi Noodles 70g,SNK-006,36,14,0,No,UPI,Online
+ORD-20260624-0462,2026-06-24,10:19:53,CUST0293,Anita Sharma,North,Jaipur,Divya Nair,Personal Care,Gillette Mach3 Razor,PC-006,9,350,0,No,UPI,Online
+ORD-20260624-0161,2026-06-24,12:02:15,CUST0137,Kavya Nair,West,Ahmedabad,Sneha Iyer,Snacks,Good Day Biscuits 200g,SNK-004,28,45,5,No,Credit,Distributor
+ORD-20260624-0279,2026-06-24,19:05:30,CUST0087,Rahul Kumar,Central,Raipur,Divya Nair,Household,Ariel Detergent 1kg,HH-001,20,220,0,No,Credit,Distributor
+ORD-20260624-0340,2026-06-24,09:25:51,CUST0204,Ramesh Patel,South,Kochi,Priya Sharma,Dairy,Mother Dairy Curd 400g,DAI-003,28,50,5,No,Credit,Online
+ORD-20260624-0116,2026-06-24,19:12:47,CUST0278,Rahul Iyer,South,Kochi,Anjali Rao,Dairy,Nestle Munch Milkshake,DAI-004,19,30,5,No,UPI,In-Store
+ORD-20260624-0478,2026-06-24,15:51:06,CUST0077,Sunil Nair,North,Lucknow,Nikhil Joshi,Dairy,Amul Butter 500g,DAI-002,20,260,0,No,UPI,Online
+ORD-20260624-0233,2026-06-24,09:37:50,CUST0084,Priya Joshi,North,Lucknow,Rohan Das,Dairy,Britannia Cheese Slice,DAI-005,25,115,15,No,Card,Distributor
+ORD-20260624-0486,2026-06-24,20:16:15,CUST0132,Sanjay Sharma,West,Mumbai,Nikhil Joshi,Dairy,Mother Dairy Curd 400g,DAI-003,14,50,0,No,Cash,In-Store
+ORD-20260624-0148,2026-06-24,15:55:52,CUST0066,Geeta Sharma,North,Chandigarh,Nikhil Joshi,Beverages,Maaza Mango 600ml,BEV-002,16,40,10,No,Card,Online
+ORD-20260624-0165,2026-06-24,15:07:06,CUST0022,Priya Reddy,West,Ahmedabad,Sneha Iyer,Dairy,Amul Full Cream Milk 1L,DAI-001,17,68,15,No,Card,Online
+ORD-20260624-0280,2026-06-24,15:08:38,CUST0030,Kavya Singh,North,Lucknow,Rohan Das,Dairy,Amul Full Cream Milk 1L,DAI-001,43,68,0,No,Credit,Distributor
+ORD-20260624-0017,2026-06-24,19:46:49,CUST0154,Meena Mehta,South,Chennai,Anjali Rao,Snacks,Maggi Noodles 70g,SNK-006,14,14,0,No,Cash,In-Store
+ORD-20260624-0149,2026-06-24,20:13:56,CUST0088,Vikram Shah,East,Kolkata,Nikhil Joshi,Snacks,Kurkure Masala 90g,SNK-002,51,30,0,No,Cash,Distributor
+ORD-20260624-0497,2026-06-24,09:37:32,CUST0104,Rahul Joshi,East,Bhubaneswar,Sneha Iyer,Personal Care,Dettol Hand Wash 250ml,PC-005,4,95,10,No,UPI,In-Store
+ORD-20260624-0352,2026-06-24,16:02:11,CUST0077,Sunil Nair,North,Jaipur,Pooja Verma,Snacks,Hide & Seek Cookies 150g,SNK-003,36,55,0,No,Card,In-Store
+ORD-20260624-0159,2026-06-24,17:16:18,CUST0197,Rekha Kumar,West,Ahmedabad,Rohan Das,Snacks,Kurkure Masala 90g,SNK-002,39,30,0,No,UPI,In-Store
+ORD-20260624-0395,2026-06-24,14:34:17,CUST0267,Sunita Reddy,South,Chennai,Nikhil Joshi,Dairy,Mother Dairy Curd 400g,DAI-003,24,50,0,No,Cash,In-Store
+ORD-20260624-0199,2026-06-24,15:15:01,CUST0138,Priya Verma,North,Lucknow,Pooja Verma,Snacks,Kurkure Masala 90g,SNK-002,29,30,0,No,Cash,In-Store
+ORD-20260624-0294,2026-06-24,17:20:39,CUST0203,Suresh Rao,West,Pune,Sneha Iyer,Dairy,Amul Full Cream Milk 1L,DAI-001,29,68,10,No,UPI,In-Store
+ORD-20260624-0267,2026-06-24,18:29:38,CUST0014,Amit Rao,,Surat,Vikram Singh,Dairy,Britannia Cheese Slice,DAI-005,11,115,0,No,Cash,In-Store
+ORD-20260624-0169,2026-06-24,09:08:42,CUST0145,Rekha Singh,West,Pune,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,14,125,0,No,UPI,Online
+ORD-20260624-0156,2026-06-24,17:03:54,CUST0122,Deepa Mehta,South,Hyderabad,Rohan Das,Beverages,Maaza Mango 600ml,BEV-002,43,40,0,No,UPI,Distributor
+ORD-20260624-0282,2026-06-24,11:12:09,CUST0065,Manoj Mehta,East,Kolkata,Vikram Singh,Dairy,Amul Ice Cream 750ml,DAI-006,41,195,15,No,Card,Distributor
+ORD-20260624-0379,2026-06-24,10:50:00,CUST0069,Sunil Das,South,Chennai,Sneha Iyer,Dairy,Amul Butter 500g,DAI-002,52,260,5,No,Credit,Distributor
+ORD-20260624-0245,2026-06-24,15:46:25,CUST0158,Rahul Sharma,South,Chennai,Divya Nair,Household,Scotch Brite Scrub Pad,HH-006,7,45,0,No,UPI,In-Store
+ORD-20260624-0096,2026-06-24,17:57:01,CUST0155,Sanjay Kumar,North,Delhi,Nikhil Joshi,Beverages,Bisleri Water 1L,BEV-004,11,20,5,No,Credit,Distributor
+ORD-20260624-0182,2026-06-24,13:46:37,CUST0224,Suresh Verma,South,Chennai,Nikhil Joshi,Household,Scotch Brite Scrub Pad,HH-006,10,45,0,No,Card,Online
+ORD-20260624-0141,2026-06-24,10:26:31,CUST0008,Rahul Nair,West,Ahmedabad,Sneha Iyer,Dairy,Nestle Munch Milkshake,DAI-004,45,30,10,No,Credit,Distributor
+ORD-20260624-0089,2026-06-24,15:14:20,CUST0168,Shweta Iyer,West,Surat,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,86,14,10,No,UPI,Distributor
+ORD-20260624-0259,2026-06-24,11:03:48,CUST0143,Priya Singh,North,Lucknow,Arjun Mehta,Household,Good Knight Refill,HH-005,25,75,5,No,UPI,In-Store
+ORD-20260624-0398,2026-06-24,09:52:44,CUST0145,Rekha Singh,East,Kolkata,Priya Sharma,Snacks,Haldirams Bhujia 400g,SNK-005,67,130,0,No,Cash,In-Store
+ORD-20260624-0158,2026-06-24,11:34:28,CUST0293,Anita Sharma,South,Chennai,Nikhil Joshi,Personal Care,Head & Shoulders 340ml,PC-002,9,290,5,No,Card,Online
+ORD-20260624-0431,2026-06-24,13:05:40,CUST0153,Shweta Das,South,Chennai,Nikhil Joshi,Household,Ariel Detergent 1kg,HH-001,22,220,0,No,Card,Distributor
+ORD-20260624-0349,2026-06-24,09:31:55,CUST0041,Sanjay Mehta,North,Chandigarh,Anjali Rao,Beverages,Bisleri Water 1L,BEV-004,22,20,15,No,Card,Online
+ORD-20260624-0060,2026-06-24,09:59:25,CUST0221,Neha Das,South,Chennai,Pooja Verma,Dairy,Amul Full Cream Milk 1L,DAI-001,15,68,5,No,UPI,In-Store
+ORD-20260624-0200,2026-06-24,17:08:21,CUST0159,Ravi Patel,Central,Bhopal,Arjun Mehta,Personal Care,Head & Shoulders 340ml,PC-002,10,290,5,No,UPI,Distributor
+ORD-20260624-0097,2026-06-24,17:16:24,CUST0054,Usha Pillai,South,Kochi,Anjali Rao,Beverages,Maaza Mango 600ml,BEV-002,21,40,15,No,Card,Online
+ORD-20260624-0016,2026-06-24,11:51:21,CUST0278,Rahul Iyer,North,Jaipur,Sneha Iyer,Household,Ariel Detergent 1kg,HH-001,15,220,0,No,Cash,In-Store
+ORD-20260624-0407,2026-06-24,18:50:12,CUST0194,Shweta Joshi,South,Bangalore,Vikram Singh,Personal Care,Dove Soap 100g,PC-001,27,55,5,No,UPI,Distributor
+ORD-20260624-0180,2026-06-24,15:56:53,CUST0242,Kavya Iyer,East,Guwahati,Priya Sharma,Household,Good Knight Refill,HH-005,10,75,0,No,Card,Online
+ORD-20260624-0393,2026-06-24,14:03:32,CUST0054,Usha Pillai,West,Surat,Nikhil Joshi,Household,Good Knight Refill,HH-005,11,75,0,Yes,Cash,In-Store
+ORD-20260624-0220,2026-06-24,11:14:13,CUST0275,Manoj Shah,West,Mumbai,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,17,45,15,No,Card,Online
+ORD-20260624-0313,2026-06-24,17:30:56,CUST0178,Suresh Verma,North,Lucknow,Arjun Mehta,Snacks,Maggi Noodles 70g,SNK-006,58,14,10,No,UPI,Distributor
+ORD-20260624-0002,2026-06-24,10:56:20,CUST0224,Suresh Verma,South,Bangalore,Pooja Verma,Dairy,Amul Ice Cream 750ml,DAI-006,25,195,0,No,Card,In-Store
+ORD-20260624-0223,2026-06-24,12:17:53,CUST0182,Vikram Mehta,East,Patna,Nikhil Joshi,Snacks,Lays Classic 90g,SNK-001,36,30,0,No,UPI,In-Store
+ORD-20260624-0394,2026-06-24,15:46:10,CUST0027,Ajay Nair,South,Bangalore,Priya Sharma,Snacks,Maggi Noodles 70g,SNK-006,44,14,0,No,Card,Distributor
+ORD-20260624-0381,2026-06-24,17:41:44,CUST0220,Rekha Pillai,West,Mumbai,Anjali Rao,Snacks,Good Day Biscuits 200g,SNK-004,26,45,0,No,UPI,In-Store
+ORD-20260624-0380,2026-06-24,16:06:52,CUST0030,Kavya Singh,South,Bangalore,Vikram Singh,Household,Good Knight Refill,HH-005,10,75,5,No,UPI,Online
+ORD-20260624-0151,2026-06-24,17:30:58,CUST0263,Sunita Pillai,South,Hyderabad,Divya Nair,Dairy,Amul Full Cream Milk 1L,DAI-001,11,68,0,No,Cash,In-Store
+ORD-20260624-0508,2026-06-24,12:38:50,CUST0096,Meena Singh,South,Bangalore,Priya Sharma,Personal Care,Head & Shoulders 340ml,PC-002,7,290,5,No,Cash,In-Store
+ORD-20260624-0049,2026-06-24,13:13:37,CUST0033,Ravi Gupta,South,Kochi,Rohan Das,Personal Care,Nivea Lotion 200ml,PC-004,13,220,5,Yes,Card,Online
+ORD-20260624-0424,2026-06-24,17:25:29,CUST0073,Usha Mehta,West,Mumbai,Divya Nair,Snacks,Haldirams Bhujia 400g,SNK-005,18,130,0,No,Cash,In-Store
+ORD-20260624-0459,2026-06-24,14:25:17,CUST0240,Rekha Iyer,East,Kolkata,Anjali Rao,Beverages,Glucon-D 500g,BEV-006,49,165,5,No,Credit,Distributor
+ORD-20260624-0073,2026-06-24,11:05:29,CUST0008,Rahul Nair,South,Bangalore,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,41,125,10,No,Cash,In-Store
+ORD-20260624-0484,2026-06-24,20:20:41,CUST0191,Priya Iyer,West,Pune,Priya Sharma,Dairy,Amul Butter 500g,DAI-002,48,260,0,No,Cash,In-Store
+ORD-20260624-0138,2026-06-24,13:20:18,CUST0270,Ravi Pillai,East,Kolkata,Anjali Rao,Beverages,Maaza Mango 600ml,BEV-002,6,40,5,No,Card,In-Store
+ORD-20260624-0067,2026-06-24,15:57:57,CUST0028,Ramesh Singh,West,Mumbai,Anjali Rao,Snacks,Good Day Biscuits 200g,SNK-004,13,45,0,No,Cash,In-Store
+ORD-20260624-0364,2026-06-24,19:42:16,CUST0187,Ramesh Kumar,North,Delhi,Pooja Verma,Beverages,Glucon-D 500g,BEV-006,39,165,5,No,Card,In-Store
+ORD-20260624-0189,2026-06-24,11:55:39,CUST0230,Shweta Patel,North,Jaipur,Arjun Mehta,Snacks,Kurkure Masala 90g,SNK-002,70,30,0,No,Cash,In-Store
+ORD-20260624-0491,2026-06-24,19:59:10,CUST0012,,West,Pune,Priya Sharma,Household,Lizol Floor Cleaner 1L,HH-003,13,175,0,No,Cash,Distributor
+ORD-20260624-0003,2026-06-24,09:05:44,CUST0104,Rahul Joshi,West,Mumbai,Pooja Verma,Beverages,Tropicana Orange 1L,BEV-001,22,95,0,No,Cash,In-Store
+ORD-20260624-0265,2026-06-24,16:14:39,CUST0045,Priya Das,South,Hyderabad,Anjali Rao,Snacks,Lays Classic 90g,SNK-001,62,30,0,No,Card,In-Store
+ORD-20260624-0263,2026-06-24,10:20:14,CUST0068,Shweta Mehta,Central,Raipur,Sneha Iyer,Snacks,Good Day Biscuits 200g,SNK-004,18,45,0,No,UPI,Online
+ORD-20260624-0445,2026-06-24,09:34:02,CUST0241,Sanjay Sharma,West,Mumbai,Karan Patel,Dairy,Amul Butter 500g,DAI-002,11,260,0,No,Card,In-Store
+ORD-20260624-0322,2026-06-24,16:37:52,CUST0258,Sunil Nair,North,Lucknow,Nikhil Joshi,Snacks,Lays Classic 90g,SNK-001,53,30,5,No,UPI,Distributor
+ORD-20260624-0253,2026-06-24,15:33:02,CUST0095,Sunita Joshi,South,Hyderabad,Arjun Mehta,Household,Good Knight Refill,HH-005,20,75,0,No,Card,In-Store
+ORD-20260624-0420,2026-06-24,19:48:48,CUST0099,Ajay Joshi,South,Bangalore,Priya Sharma,Beverages,Tropicana Orange 1L,BEV-001,30,95,5,No,Card,Online
+ORD-20260624-0048,2026-06-24,18:55:00,CUST0006,Ajay Pillai,West,Ahmedabad,Karan Patel,Dairy,Mother Dairy Curd 400g,DAI-003,21,50,0,No,UPI,In-Store
+ORD-20260624-0285,2026-06-24,16:53:45,CUST0250,Kavya Das,Central,Indore,Anjali Rao,Dairy,Amul Butter 500g,DAI-002,10,260,0,No,Cash,Distributor
+ORD-20260624-0108,2026-06-24,19:44:59,CUST0132,Sanjay Sharma,South,Kochi,Divya Nair,Snacks,Maggi Noodles 70g,SNK-006,16,14,0,No,UPI,In-Store
+ORD-20260624-0374,2026-06-24,19:12:58,CUST0124,Rahul Reddy,East,Patna,Karan Patel,Snacks,Hide & Seek Cookies 150g,SNK-003,16,55,0,No,UPI,Online
+ORD-20260624-0051,2026-06-24,11:02:30,CUST0051,Vikram Mehta,East,Bhubaneswar,Pooja Verma,Snacks,Hide & Seek Cookies 150g,SNK-003,25,55,5,No,Card,Online
+ORD-20260624-0317,2026-06-24,13:37:49,CUST0060,Sunil Rao,South,Kochi,Nikhil Joshi,Dairy,Mother Dairy Curd 400g,DAI-003,19,50,0,No,UPI,In-Store
+ORD-20260624-0213,2026-06-24,17:07:20,CUST0078,Vikram Gupta,East,Guwahati,Nikhil Joshi,Dairy,Britannia Cheese Slice,DAI-005,28,115,5,No,Cash,Distributor
+ORD-20260624-0014,2026-06-24,10:53:12,CUST0220,Rekha Pillai,South,Bangalore,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,11,14,0,No,UPI,Online
+ORD-20260624-0174,2026-06-24,10:14:28,CUST0009,Meena Sharma,South,Kochi,Pooja Verma,Dairy,Amul Full Cream Milk 1L,DAI-001,5,68,0,No,Cash,In-Store
+ORD-20260624-0104,2026-06-24,16:15:16,CUST0298,Suresh Pillai,North,Jaipur,Sneha Iyer,Personal Care,Head & Shoulders 340ml,PC-002,9,290,0,No,UPI,Distributor
+ORD-20260624-0417,2026-06-24,10:49:26,CUST0275,Manoj Shah,North,Lucknow,Vikram Singh,Personal Care,Dettol Hand Wash 250ml,PC-005,8,95,0,No,Cash,In-Store
+ORD-20260624-0362,2026-06-24,14:47:03,CUST0105,Suresh Shah,West,Mumbai,Anjali Rao,Beverages,Red Bull 250ml,BEV-003,22,125,0,No,Credit,In-Store
+ORD-20260624-0481,2026-06-24,19:54:34,CUST0134,Ravi Iyer,North,Lucknow,Pooja Verma,Household,Vim Dishwash Gel 500ml,HH-002,7,90,15,No,UPI,In-Store
+ORD-20260624-0195,2026-06-24,11:52:43,CUST0018,Arun Patel,Central,Raipur,Vikram Singh,Beverages,Tropicana Orange 1L,BEV-001,8,95,15,No,Card,In-Store
+ORD-20260624-0019,2026-06-24,11:19:14,CUST0282,Vikram Kumar,South,Bangalore,Anjali Rao,Dairy,Britannia Cheese Slice,DAI-005,6,115,10,No,UPI,Online
+ORD-20260624-0333,2026-06-24,18:38:53,CUST0200,Amit Rao,South,Kochi,Vikram Singh,Personal Care,Dettol Hand Wash 250ml,PC-005,27,95,0,No,Credit,Distributor
+ORD-20260624-0210,2026-06-24,10:23:05,CUST0111,Shweta Pillai,West,Mumbai,Karan Patel,Personal Care,Nivea Lotion 200ml,PC-004,7,220,10,No,UPI,Distributor
+ORD-20260624-0331,2026-06-24,10:18:52,CUST0298,Suresh Pillai,North,Jaipur,Karan Patel,Snacks,Good Day Biscuits 200g,SNK-004,27,45,0,No,Card,In-Store
+ORD-20260624-0033,2026-06-24,19:24:00,CUST0202,Pooja Joshi,South,Bangalore,Priya Sharma,Dairy,Amul Full Cream Milk 1L,DAI-001,24,68,0,No,Credit,Distributor
+ORD-20260624-0423,2026-06-24,14:12:58,CUST0170,Vikram Mehta,South,Chennai,Priya Sharma,Snacks,Kurkure Masala 90g,SNK-002,16,30,0,No,Card,In-Store
+ORD-20260624-0273,2026-06-24,19:25:23,CUST0299,Anita Sharma,North,Jaipur,Priya Sharma,Personal Care,Nivea Lotion 200ml,PC-004,4,220,0,No,UPI,Online
+ORD-20260624-0238,2026-06-24,11:17:57,CUST0112,,Central,Indore,Priya Sharma,Personal Care,Dove Soap 100g,PC-001,5,55,0,No,UPI,Online
+ORD-20260624-0021,2026-06-24,17:51:34,CUST0260,Anita Mishra,South,Bangalore,Nikhil Joshi,Personal Care,Dove Soap 100g,PC-001,25,55,15,No,UPI,In-Store
+ORD-20260624-0312,2026-06-24,10:54:31,CUST0048,Ajay Das,East,Kolkata,Anjali Rao,Beverages,Nescafe Classic 50g,BEV-005,9,210,0,No,UPI,Online
+ORD-20260624-0084,2026-06-24,13:37:30,CUST0149,Ajay Verma,South,Chennai,Rohan Das,Personal Care,Colgate Toothpaste 200g,PC-003,19,110,0,No,UPI,Distributor
+ORD-20260624-0366,2026-06-24,16:54:42,CUST0273,Ravi Mehta,East,Guwahati,Vikram Singh,Personal Care,Colgate Toothpaste 200g,PC-003,11,110,0,No,UPI,In-Store
+ORD-20260624-0170,2026-06-24,10:58:40,CUST0218,Ajay Mehta,West,Mumbai,Divya Nair,Beverages,Tropicana Orange 1L,BEV-001,49,95,0,No,Cash,In-Store
+ORD-20260624-0194,2026-06-24,10:04:44,CUST0293,Anita Sharma,South,Bangalore,Sneha Iyer,Household,Ariel Detergent 1kg,HH-001,17,220,15,No,Card,Online
+ORD-20260624-0010,2026-06-24,18:03:33,CUST0058,Rahul Verma,East,Patna,Nikhil Joshi,Snacks,Haldirams Bhujia 400g,SNK-005,63,130,0,No,Credit,Distributor
+ORD-20260624-0357,2026-06-24,16:22:35,CUST0175,Ramesh Das,West,Mumbai,Arjun Mehta,Dairy,Nestle Munch Milkshake,DAI-004,12,30,10,No,UPI,Online
+ORD-20260624-0435,2026-06-24,14:21:10,CUST0165,Deepa Reddy,North,Lucknow,Arjun Mehta,Personal Care,Nivea Lotion 200ml,PC-004,22,220,5,No,UPI,Distributor
+ORD-20260624-0178,2026-06-24,20:11:23,CUST0208,Neha Iyer,West,Ahmedabad,Arjun Mehta,Snacks,Hide & Seek Cookies 150g,SNK-003,42,55,5,No,UPI,In-Store
+ORD-20260624-0325,2026-06-24,19:57:01,CUST0245,Ravi Reddy,West,Surat,Rohan Das,Dairy,Mother Dairy Curd 400g,DAI-003,18,50,15,No,Cash,Distributor
+ORD-20260624-0237,2026-06-24,15:58:23,CUST0188,Geeta Verma,South,Hyderabad,Priya Sharma,Household,Lizol Floor Cleaner 1L,HH-003,42,175,15,No,Credit,Distributor
+ORD-20260624-0406,2026-06-24,09:55:55,CUST0041,Sanjay Mehta,West,Pune,Pooja Verma,Household,Vim Dishwash Gel 500ml,HH-002,25,90,0,No,UPI,Distributor
+ORD-20260624-0283,2026-06-24,15:15:33,CUST0196,Neha Pillai,West,Mumbai,Priya Sharma,Dairy,Amul Butter 500g,DAI-002,5,260,15,No,UPI,Online
+ORD-20260624-0234,2026-06-24,12:42:34,CUST0087,Rahul Kumar,South,Hyderabad,Anjali Rao,Snacks,Maggi Noodles 70g,SNK-006,63,14,0,No,UPI,Distributor
+ORD-20260624-0345,2026-06-24,12:51:51,CUST0237,Raj Pillai,South,Hyderabad,Rohan Das,Snacks,Kurkure Masala 90g,SNK-002,35,30,0,No,Credit,In-Store
+ORD-20260624-0190,2026-06-24,16:44:11,CUST0233,Shweta Pillai,West,Surat,Vikram Singh,Household,Good Knight Refill,HH-005,10,75,15,No,UPI,Online
+ORD-20260624-0414,2026-06-24,13:41:06,CUST0261,Meena Kumar,East,Kolkata,Divya Nair,Beverages,Bisleri Water 1L,BEV-004,41,20,5,No,UPI,Distributor
+ORD-20260624-0024,2026-06-24,18:59:28,CUST0200,Amit Rao,Central,Nagpur,Sneha Iyer,Beverages,Bisleri Water 1L,BEV-004,18,20,0,No,Cash,In-Store
+ORD-20260624-0405,2026-06-24,12:49:22,CUST0267,Sunita Reddy,South,Chennai,Vikram Singh,Personal Care,Dove Soap 100g,PC-001,12,55,0,Yes,Card,In-Store
+ORD-20260624-0123,2026-06-24,18:13:41,CUST0271,Geeta Reddy,South,Hyderabad,Pooja Verma,Beverages,Maaza Mango 600ml,BEV-002,56,40,0,No,UPI,Distributor
+ORD-20260624-0035,2026-06-24,16:29:16,CUST0019,Rahul Mishra,Central,Nagpur,Nikhil Joshi,Snacks,Kurkure Masala 90g,SNK-002,11,30,0,No,UPI,Online
+ORD-20260624-0192,2026-06-24,19:54:24,CUST0061,Shweta Pillai,Central,Nagpur,Pooja Verma,Dairy,Amul Full Cream Milk 1L,DAI-001,6,68,5,No,Cash,In-Store
+ORD-20260624-0005,2026-06-24,16:31:14,CUST0222,Pooja Patel,East,Patna,Divya Nair,Dairy,Mother Dairy Curd 400g,DAI-003,15,50,0,No,Cash,In-Store
+ORD-20260624-0115,2026-06-24,15:27:51,CUST0170,Vikram Mehta,North,Lucknow,Rohan Das,Snacks,Hide & Seek Cookies 150g,SNK-003,33,55,5,No,Credit,Distributor
+ORD-20260624-0139,2026-06-24,17:35:36,CUST0202,Pooja Joshi,East,Kolkata,Karan Patel,Household,Vim Dishwash Gel 500ml,HH-002,-22,90,15,No,Credit,Distributor
+ORD-20260624-0092,2026-06-24,15:26:36,CUST0011,Ramesh Pillai,South,Kochi,Karan Patel,Snacks,Good Day Biscuits 200g,SNK-004,50,45,15,No,Credit,Distributor
+ORD-20260624-0304,2026-06-24,09:28:40,CUST0199,Deepa Pillai,Central,Indore,Sneha Iyer,Household,Lizol Floor Cleaner 1L,HH-003,28,175,10,No,UPI,In-Store
+ORD-20260624-0344,2026-06-24,20:07:27,CUST0242,Kavya Iyer,East,Kolkata,Vikram Singh,Beverages,Bisleri Water 1L,BEV-004,16,20,0,No,Card,Distributor
+ORD-20260624-0392,2026-06-24,17:13:50,CUST0161,Manoj Mehta,Central,Bhopal,Rohan Das,Household,Ariel Detergent 1kg,HH-001,7,220,0,No,UPI,Online
+ORD-20260624-0477,2026-06-24,18:18:59,CUST0180,Suresh Verma,South,Chennai,Priya Sharma,Beverages,Tropicana Orange 1L,BEV-001,46,95,0,No,Cash,In-Store
+ORD-20260624-0228,2026-06-24,10:00:21,CUST0071,Pooja Rao,North,Chandigarh,Priya Sharma,Personal Care,Colgate Toothpaste 200g,PC-003,17,110,0,No,Credit,Distributor
+ORD-20260624-0258,2026-06-24,14:33:36,CUST0246,Ravi Nair,East,Patna,Vikram Singh,Snacks,Kurkure Masala 90g,SNK-002,45,30,0,No,Credit,Distributor
+ORD-20260624-0356,2026-06-24,17:43:53,CUST0253,Meena Nair,South,Bangalore,Priya Sharma,Beverages,Red Bull 250ml,BEV-003,79,125,15,No,Credit,Distributor
+ORD-20260624-0215,2026-06-24,14:13:26,CUST0075,Manoj Patel,Central,Nagpur,Anjali Rao,Household,Good Knight Refill,HH-005,19,75,5,No,Cash,In-Store
+ORD-20260624-0341,2026-06-24,20:14:04,CUST0013,Ajay Mehta,West,Ahmedabad,Pooja Verma,Snacks,Good Day Biscuits 200g,SNK-004,81,45,0,No,UPI,Distributor
+ORD-20260624-0278,2026-06-24,12:45:20,CUST0051,Vikram Mehta,West,Mumbai,Priya Sharma,Snacks,Haldirams Bhujia 400g,SNK-005,39,130,10,No,Card,In-Store
+ORD-20260624-0427,2026-06-24,18:06:51,CUST0255,Priya Joshi,North,Lucknow,Pooja Verma,Personal Care,Gillette Mach3 Razor,PC-006,21,350,0,No,UPI,Distributor
+ORD-20260624-0297,2026-06-24,09:47:29,CUST0156,Shweta Iyer,West,Surat,Vikram Singh,Beverages,Tropicana Orange 1L,BEV-001,32,95,15,No,UPI,In-Store
+ORD-20260624-0518,2026-06-24,11:04:58,CUST0039,Geeta Joshi,South,Chennai,Anjali Rao,Dairy,Amul Full Cream Milk 1L,DAI-001,53,68,0,No,Cash,Distributor
+ORD-20260624-0335,2026-06-24,10:25:31,CUST0136,Vikram Nair,West,Ahmedabad,Priya Sharma,Household,Scotch Brite Scrub Pad,HH-006,4,45,0,No,UPI,Online
+ORD-20260624-0343,2026-06-24,13:50:07,CUST0267,Sunita Reddy,West,Pune,Nikhil Joshi,Personal Care,Head & Shoulders 340ml,PC-002,11,290,10,Yes,Card,In-Store
+ORD-20260624-0269,2026-06-24,11:53:50,CUST0211,Sanjay Das,Central,Bhopal,Anjali Rao,Snacks,Good Day Biscuits 200g,SNK-004,24,45,5,No,Cash,In-Store
+ORD-20260624-0128,2026-06-24,14:38:51,CUST0025,Geeta Iyer,West,Pune,Karan Patel,Snacks,Hide & Seek Cookies 150g,SNK-003,30,55,0,Yes,UPI,In-Store
+ORD-20260624-0432,2026-06-24,10:24:12,CUST0110,Sunita Patel,Central,Indore,Divya Nair,Household,Harpic Toilet Cleaner,HH-004,12,140,0,Yes,Credit,Distributor
+ORD-20260624-0028,2026-06-24,10:54:50,CUST0140,,East,Kolkata,Priya Sharma,Beverages,Red Bull 250ml,BEV-003,21,125,15,No,Credit,In-Store
+ORD-20260624-0418,2026-06-24,15:03:02,CUST0067,Shweta Patel,South,Chennai,Priya Sharma,Dairy,Mother Dairy Curd 400g,DAI-003,21,50,5,No,Cash,In-Store
+ORD-20260624-0166,2026-06-24,18:03:47,CUST0065,Manoj Mehta,West,Pune,Rohan Das,Beverages,Red Bull 250ml,BEV-003,7,125,5,No,Card,Distributor
+ORD-20260624-0164,2026-06-24,20:50:18,CUST0007,Priya Sharma,East,Kolkata,Priya Sharma,Dairy,Amul Butter 500g,DAI-002,35,260,0,No,Cash,Distributor
+ORD-20260624-0468,2026-06-24,10:58:25,CUST0002,,East,Guwahati,Rohan Das,Household,Scotch Brite Scrub Pad,HH-006,3,45,5,No,Card,In-Store
+ORD-20260624-0043,2026-06-24,14:47:42,CUST0084,Priya Joshi,North,Delhi,Vikram Singh,Personal Care,Dettol Hand Wash 250ml,PC-005,11,95,0,No,Credit,Distributor
+ORD-20260624-0162,2026-06-24,15:19:42,CUST0259,Ramesh Mishra,West,Pune,Pooja Verma,Snacks,Maggi Noodles 70g,SNK-006,72,14,0,No,Cash,In-Store
+ORD-20260624-0358,2026-06-24,12:40:19,CUST0206,Anita Joshi,North,Lucknow,Arjun Mehta,Dairy,Mother Dairy Curd 400g,DAI-003,18,50,5,No,Credit,Distributor
+ORD-20260624-0448,2026-06-24,17:48:22,CUST0181,Amit Das,South,Bangalore,Priya Sharma,Personal Care,Nivea Lotion 200ml,PC-004,32,220,0,No,Card,Distributor
+ORD-20260624-0131,2026-06-24,13:31:03,CUST0151,Pooja Das,South,Bangalore,Nikhil Joshi,Personal Care,Head & Shoulders 340ml,PC-002,10,290,10,No,Card,Online
+ORD-20260624-0522,2026-06-24,15:21:49,CUST0030,Kavya Singh,East,Kolkata,Rohan Das,Household,Ariel Detergent 1kg,HH-001,5,220,0,No,UPI,Online
+ORD-20260624-0172,2026-06-24,18:12:33,CUST0183,Deepa Reddy,North,Delhi,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,36,125,0,No,Credit,Distributor
+ORD-20260624-0086,2026-06-24,20:17:45,CUST0077,Sunil Nair,West,Surat,Arjun Mehta,Personal Care,Head & Shoulders 340ml,PC-002,9,290,5,No,UPI,In-Store
+ORD-20260624-0187,2026-06-24,16:36:04,CUST0165,Deepa Reddy,South,Bangalore,Rohan Das,Snacks,Kurkure Masala 90g,SNK-002,16,30,5,No,Credit,Distributor
+ORD-20260624-0261,2026-06-24,16:57:14,CUST0265,Ramesh Reddy,East,Guwahati,Karan Patel,Personal Care,Nivea Lotion 200ml,PC-004,3,220,0,No,Cash,In-Store
+ORD-20260624-0485,2026-06-24,13:34:30,CUST0149,Ajay Verma,Central,Bhopal,Vikram Singh,Snacks,Kurkure Masala 90g,SNK-002,14,30,5,No,UPI,Online
+ORD-20260624-0040,2026-06-24,20:02:14,CUST0166,Geeta Iyer,West,Surat,Vikram Singh,Dairy,Amul Full Cream Milk 1L,DAI-001,19,68,5,No,Card,Online
+ORD-20260624-0207,2026-06-24,15:35:00,CUST0069,Sunil Das,West,Mumbai,Rohan Das,Beverages,Nescafe Classic 50g,BEV-005,15,210,0,No,UPI,Online
+ORD-20260624-0095,2026-06-24,12:58:15,CUST0077,Sunil Nair,East,Patna,Sneha Iyer,Snacks,Good Day Biscuits 200g,SNK-004,45,45,15,No,UPI,Online
+ORD-20260624-0221,2026-06-24,18:42:14,CUST0256,Anita Singh,East,Bhubaneswar,Arjun Mehta,Beverages,Red Bull 250ml,BEV-003,61,125,0,No,Credit,Distributor
+ORD-20260624-0217,2026-06-24,10:21:22,CUST0024,Sanjay Singh,South,Kochi,Priya Sharma,Snacks,Good Day Biscuits 200g,SNK-004,18,45,5,No,Card,Online
+ORD-20260624-0036,2026-06-24,15:17:33,CUST0103,Priya Das,West,Ahmedabad,Arjun Mehta,Household,Vim Dishwash Gel 500ml,HH-002,31,90,5,No,Cash,In-Store
+ORD-20260624-0490,2026-06-24,09:41:17,CUST0193,Neha Nair,West,Pune,Anjali Rao,Beverages,Tropicana Orange 1L,BEV-001,19,95,0,No,Card,Online
+ORD-20260624-0039,2026-06-24,17:44:20,CUST0090,Suresh Pillai,Central,Nagpur,Nikhil Joshi,Beverages,Bisleri Water 1L,BEV-004,24,20,0,No,Cash,Distributor
+ORD-20260624-0197,2026-06-24,13:01:33,CUST0203,Suresh Rao,Central,Bhopal,Divya Nair,Beverages,Maaza Mango 600ml,BEV-002,26,40,0,No,UPI,Online
+ORD-20260624-0071,2026-06-24,18:41:25,CUST0247,Manoj Shah,East,Kolkata,Pooja Verma,Snacks,Good Day Biscuits 200g,SNK-004,31,45,5,No,Cash,In-Store
+ORD-20260624-0463,2026-06-24,15:19:30,CUST0082,Sunita Gupta,North,Delhi,Vikram Singh,Beverages,Bisleri Water 1L,BEV-004,27,20,10,No,UPI,In-Store
+ORD-20260624-0083,2026-06-24,19:36:06,CUST0162,Vikram Gupta,North,Chandigarh,Karan Patel,Beverages,Nescafe Classic 50g,BEV-005,11,210,0,No,Cash,Distributor
+ORD-20260624-0410,2026-06-24,12:36:56,CUST0198,Meena Rao,West,Pune,Sneha Iyer,Snacks,Kurkure Masala 90g,SNK-002,27,30,5,No,UPI,In-Store
+ORD-20260624-0452,2026-06-24,14:00:30,CUST0070,Sunita Iyer,North,Delhi,Vikram Singh,Personal Care,Head & Shoulders 340ml,PC-002,10,290,0,No,UPI,In-Store
+ORD-20260624-0224,2026-06-24,19:18:03,CUST0032,Sanjay Mehta,North,Lucknow,Karan Patel,Personal Care,Colgate Toothpaste 200g,PC-003,5,110,5,Yes,Card,In-Store
+ORD-20260624-0196,2026-06-24,18:51:36,CUST0075,Manoj Patel,East,Guwahati,Karan Patel,Personal Care,Colgate Toothpaste 200g,PC-003,18,110,5,Yes,Credit,Distributor
+ORD-20260624-0520,2026-06-24,11:05:46,CUST0117,Usha Das,West,Ahmedabad,Karan Patel,Dairy,Nestle Munch Milkshake,DAI-004,33,30,15,No,UPI,In-Store
+ORD-20260624-0167,2026-06-24,15:30:18,CUST0221,Neha Das,West,Ahmedabad,Nikhil Joshi,Personal Care,Colgate Toothpaste 200g,PC-003,18,110,0,No,Card,In-Store
+ORD-20260624-0038,2026-06-24,17:59:43,CUST0019,Rahul Mishra,North,Lucknow,Sneha Iyer,Dairy,Nestle Munch Milkshake,DAI-004,7,30,10,Yes,Credit,Online
+ORD-20260624-0327,2026-06-24,09:59:22,CUST0265,Ramesh Reddy,East,Bhubaneswar,Sneha Iyer,Household,Harpic Toilet Cleaner,HH-004,13,140,5,No,UPI,In-Store
+ORD-20260624-0107,2026-06-24,15:03:48,CUST0041,Sanjay Mehta,East,Patna,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,8,45,5,Yes,Cash,In-Store
+ORD-20260624-0305,2026-06-24,18:56:40,CUST0230,Shweta Patel,South,Chennai,Rohan Das,Snacks,Good Day Biscuits 200g,SNK-004,24,45,10,Yes,UPI,In-Store
+ORD-20260624-0093,2026-06-24,17:30:39,CUST0282,Vikram Kumar,South,Kochi,Anjali Rao,Beverages,Tropicana Orange 1L,BEV-001,27,95,0,No,UPI,Online
+ORD-20260624-0160,2026-06-24,17:12:02,CUST0261,Meena Kumar,North,Lucknow,Nikhil Joshi,Beverages,Maaza Mango 600ml,BEV-002,29,40,5,No,UPI,In-Store
+ORD-20260624-0098,2026-06-24,14:16:08,CUST0133,Sanjay Mehta,West,Mumbai,Anjali Rao,Household,Harpic Toilet Cleaner,HH-004,24,140,0,No,UPI,In-Store
+ORD-20260624-0087,2026-06-24,19:28:31,CUST0145,Rekha Singh,South,Hyderabad,Arjun Mehta,Household,Harpic Toilet Cleaner,HH-004,33,140,0,No,UPI,In-Store
+ORD-20260624-0125,2026-06-24,18:34:33,CUST0085,Ajay Singh,Central,Indore,Pooja Verma,Beverages,Nescafe Classic 50g,BEV-005,17,210,0,No,Credit,Distributor
+ORD-20260624-0523,2026-06-24,20:49:06,CUST0010,Geeta Nair,West,Pune,Sneha Iyer,Beverages,Nescafe Classic 50g,BEV-005,18,210,0,No,UPI,In-Store
+ORD-20260624-0070,2026-06-24,20:42:57,CUST0220,Rekha Pillai,North,Delhi,Rohan Das,Beverages,Maaza Mango 600ml,BEV-002,6,40,5,No,Card,Distributor
+ORD-20260624-0286,2026-06-24,17:29:45,CUST0209,Meena Joshi,West,Surat,Pooja Verma,Household,Good Knight Refill,HH-005,21,75,0,No,Cash,In-Store
+ORD-20260624-0171,2026-06-24,19:57:17,CUST0083,Kavya Joshi,South,Bangalore,Vikram Singh,Personal Care,Nivea Lotion 200ml,PC-004,20,220,15,No,Credit,In-Store
+ORD-20260624-0500,2026-06-24,20:49:36,CUST0142,Manoj Rao,West,Surat,Anjali Rao,Beverages,Glucon-D 500g,BEV-006,40,165,15,No,Credit,Distributor
+ORD-20260624-0153,2026-06-24,12:20:04,CUST0142,Manoj Rao,North,Jaipur,Priya Sharma,Beverages,Nescafe Classic 50g,BEV-005,62,210,0,No,Credit,Distributor
+ORD-20260624-0348,2026-06-24,16:39:59,CUST0277,Suresh Reddy,Central,Raipur,Arjun Mehta,Dairy,Britannia Cheese Slice,DAI-005,25,115,10,No,UPI,Online
+ORD-20260624-0411,2026-06-24,19:11:52,CUST0152,Suresh Nair,South,Chennai,Karan Patel,Snacks,Maggi Noodles 70g,SNK-006,9,14,5,No,UPI,In-Store
+ORD-20260624-0006,2026-06-24,09:42:34,CUST0063,Sanjay Mishra,West,Surat,Arjun Mehta,Snacks,Haldirams Bhujia 400g,SNK-005,32,130,0,No,UPI,Online
+ORD-20260624-0470,2026-06-24,10:09:32,CUST0103,Priya Das,,Kochi,Arjun Mehta,Dairy,Mother Dairy Curd 400g,DAI-003,43,50,0,No,Card,In-Store
+ORD-20260624-0347,2026-06-24,13:12:45,CUST0280,Arun Das,West,Pune,Priya Sharma,Dairy,Amul Ice Cream 750ml,DAI-006,29,195,10,No,UPI,In-Store
+ORD-20260624-0495,2026-06-24,14:52:57,CUST0059,Sunita Kumar,,Guwahati,Rohan Das,Snacks,Good Day Biscuits 200g,SNK-004,33,45,0,No,Credit,In-Store
+ORD-20260624-0494,2026-06-24,16:42:23,CUST0216,Amit Patel,North,Chandigarh,Vikram Singh,Personal Care,Colgate Toothpaste 200g,PC-003,5,110,0,No,Cash,In-Store
+ORD-20260624-0068,2026-06-24,11:39:10,CUST0174,Rekha Nair,West,Pune,Anjali Rao,Beverages,Nescafe Classic 50g,BEV-005,10,210,15,No,Card,Distributor
+ORD-20260624-0256,2026-06-24,15:38:03,CUST0126,Priya Sharma,South,Bangalore,Priya Sharma,Personal Care,Dove Soap 100g,PC-001,30,55,5,No,UPI,Distributor
+ORD-20260624-0252,2026-06-24,19:34:33,CUST0124,Rahul Reddy,West,Ahmedabad,Sneha Iyer,Dairy,Amul Ice Cream 750ml,DAI-006,33,195,0,No,Credit,Distributor
+ORD-20260624-0212,2026-06-24,11:52:03,CUST0290,Raj Pillai,Central,Raipur,Divya Nair,Personal Care,Dove Soap 100g,PC-001,5,55,5,No,Credit,Distributor
+ORD-20260624-0055,2026-06-24,11:51:24,CUST0043,Shweta Das,West,Ahmedabad,Sneha Iyer,Household,Good Knight Refill,HH-005,15,75,0,No,Credit,Distributor
+ORD-20260624-0436,2026-06-24,09:15:33,CUST0208,Neha Iyer,West,Mumbai,Arjun Mehta,Snacks,Hide & Seek Cookies 150g,SNK-003,34,55,5,No,UPI,In-Store
+ORD-20260624-0069,2026-06-24,13:55:02,CUST0198,Meena Rao,East,Kolkata,Divya Nair,Dairy,Mother Dairy Curd 400g,DAI-003,31,50,0,No,Cash,In-Store
+ORD-20260624-0370,2026-06-24,13:49:54,CUST0275,Manoj Shah,East,Kolkata,Divya Nair,Snacks,Kurkure Masala 90g,SNK-002,17,30,15,No,UPI,In-Store
+ORD-20260624-0404,2026-06-24,15:19:21,CUST0008,Rahul Nair,North,Chandigarh,Rohan Das,Snacks,Haldirams Bhujia 400g,SNK-005,19,130,10,No,UPI,Online
+ORD-20260624-0081,2026-06-24,10:47:01,CUST0188,Geeta Verma,South,Bangalore,Arjun Mehta,Personal Care,Dove Soap 100g,PC-001,7,55,0,No,Credit,In-Store
+ORD-20260624-0310,2026-06-24,16:58:09,CUST0267,Sunita Reddy,North,Chandigarh,Sneha Iyer,Beverages,Glucon-D 500g,BEV-006,49,165,10,No,UPI,In-Store
+ORD-20260624-0146,2026-06-24,11:07:36,CUST0033,Ravi Gupta,West,Surat,Arjun Mehta,Personal Care,Head & Shoulders 340ml,PC-002,11,290,0,No,Card,Online
+ORD-20260624-0225,2026-06-24,13:15:23,CUST0048,Ajay Das,North,Delhi,Karan Patel,Personal Care,Dove Soap 100g,PC-001,11,55,0,No,Credit,Distributor
+ORD-20260624-0053,2026-06-24,09:36:41,CUST0182,Vikram Mehta,West,Mumbai,Karan Patel,Dairy,Amul Butter 500g,DAI-002,21,260,0,No,Card,Online
+ORD-20260624-0247,2026-06-24,09:13:33,CUST0169,Shweta Patel,West,Pune,Sneha Iyer,Snacks,Hide & Seek Cookies 150g,SNK-003,66,55,0,No,UPI,In-Store
+ORD-20260624-0111,2026-06-24,14:04:30,CUST0238,Shweta Mishra,North,Lucknow,Nikhil Joshi,Household,Harpic Toilet Cleaner,HH-004,-14,140,0,No,Cash,In-Store
+ORD-20260624-0091,2026-06-24,11:18:03,CUST0099,Ajay Joshi,Central,Raipur,Divya Nair,Dairy,Amul Butter 500g,DAI-002,37,260,0,Yes,UPI,In-Store
+ORD-20260624-0147,2026-06-24,16:10:43,CUST0031,,East,Bhubaneswar,Rohan Das,Personal Care,Head & Shoulders 340ml,PC-002,11,290,0,No,Card,In-Store
+ORD-20260624-0385,2026-06-24,11:57:55,CUST0231,Usha Iyer,North,Lucknow,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,10,125,15,No,Card,Online
+ORD-20260624-0318,2026-06-24,15:58:06,CUST0240,Rekha Iyer,North,Lucknow,Arjun Mehta,Personal Care,Dove Soap 100g,PC-001,5,55,0,No,Card,In-Store
+ORD-20260624-0337,2026-06-24,15:33:51,CUST0212,Suresh Singh,North,Lucknow,Anjali Rao,Household,Harpic Toilet Cleaner,HH-004,10,140,10,No,UPI,In-Store
+ORD-20260624-0293,2026-06-24,09:02:29,CUST0190,Pooja Kumar,Central,Bhopal,Sneha Iyer,Personal Care,Dettol Hand Wash 250ml,PC-005,18,95,0,No,Credit,Distributor
+ORD-20260624-0211,2026-06-24,17:36:48,CUST0172,Usha Kumar,North,Delhi,Nikhil Joshi,Snacks,Lays Classic 90g,SNK-001,53,30,15,No,Cash,In-Store
+ORD-20260624-0519,2026-06-24,19:36:12,CUST0198,Meena Rao,West,Surat,Nikhil Joshi,Beverages,Glucon-D 500g,BEV-006,48,165,0,No,Credit,Distributor
+ORD-20260624-0457,2026-06-24,13:26:29,CUST0152,Suresh Nair,Central,Nagpur,Sneha Iyer,Personal Care,Dettol Hand Wash 250ml,PC-005,6,95,5,No,UPI,Online
+ORD-20260624-0502,2026-06-24,18:23:18,CUST0177,Manoj Shah,North,Delhi,Nikhil Joshi,Personal Care,Dettol Hand Wash 250ml,PC-005,4,95,5,Yes,Credit,Distributor
+ORD-20260624-0307,2026-06-24,19:36:50,CUST0260,Anita Mishra,North,Chandigarh,Vikram Singh,Beverages,Glucon-D 500g,BEV-006,14,165,10,No,UPI,In-Store
+ORD-20260624-0461,2026-06-24,14:23:13,CUST0026,Sunil Gupta,Central,Nagpur,Rohan Das,Beverages,Nescafe Classic 50g,BEV-005,31,210,5,No,Cash,In-Store
+ORD-20260624-0013,2026-06-24,12:12:12,CUST0068,Shweta Mehta,East,Patna,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,16,14,10,No,Card,In-Store
+ORD-20260624-0346,2026-06-24,10:03:02,CUST0035,Neha Nair,North,Lucknow,Karan Patel,Beverages,Glucon-D 500g,BEV-006,10,165,0,No,UPI,In-Store
+ORD-20260624-0442,2026-06-24,14:23:25,CUST0167,Rekha Sharma,West,Pune,Nikhil Joshi,Personal Care,Gillette Mach3 Razor,PC-006,14,350,0,No,UPI,In-Store
+ORD-20260624-0446,2026-06-24,09:35:16,CUST0175,Ramesh Das,Central,Raipur,Divya Nair,Personal Care,Head & Shoulders 340ml,PC-002,20,290,5,No,UPI,In-Store
+ORD-20260624-0368,2026-06-24,18:13:43,CUST0246,Ravi Nair,South,Bangalore,Arjun Mehta,Personal Care,Dove Soap 100g,PC-001,18,55,5,No,UPI,In-Store
+ORD-20260624-0324,2026-06-24,17:32:28,CUST0031,Meena Patel,South,Hyderabad,Anjali Rao,Personal Care,Dove Soap 100g,PC-001,8,55,0,No,Credit,Distributor
+ORD-20260624-0371,2026-06-24,17:40:38,CUST0271,Geeta Reddy,West,Pune,Anjali Rao,Beverages,Bisleri Water 1L,BEV-004,37,20,5,No,Card,Distributor
+ORD-20260624-0275,2026-06-24,17:52:09,CUST0004,Vikram Patel,West,Pune,Sneha Iyer,Dairy,Amul Ice Cream 750ml,DAI-006,28,195,5,No,UPI,In-Store
+ORD-20260624-0419,2026-06-24,10:25:18,CUST0290,Raj Pillai,South,Chennai,Priya Sharma,Personal Care,Head & Shoulders 340ml,PC-002,7,290,10,No,Card,Online
+ORD-20260624-0391,2026-06-24,17:06:53,CUST0260,Anita Mishra,East,Guwahati,Karan Patel,Household,Scotch Brite Scrub Pad,HH-006,5,45,10,No,Card,Distributor
+ORD-20260624-0244,2026-06-24,15:02:19,CUST0211,Sanjay Das,West,Mumbai,Divya Nair,Dairy,Nestle Munch Milkshake,DAI-004,18,30,15,No,UPI,Online
+ORD-20260624-0409,2026-06-24,13:40:40,CUST0163,Rahul Joshi,East,Patna,Pooja Verma,Dairy,Amul Butter 500g,DAI-002,12,260,5,No,UPI,Online
+ORD-20260624-0465,2026-06-24,10:20:41,CUST0111,Shweta Pillai,South,Chennai,Karan Patel,Personal Care,Dove Soap 100g,PC-001,23,55,5,No,Card,Distributor
+ORD-20260624-0376,2026-06-24,14:40:54,CUST0061,Shweta Pillai,West,Mumbai,Priya Sharma,Personal Care,Head & Shoulders 340ml,PC-002,18,290,0,No,Card,In-Store
+ORD-20260624-0353,2026-06-24,11:18:38,CUST0070,Sunita Iyer,South,Kochi,Vikram Singh,Snacks,Lays Classic 90g,SNK-001,49,30,0,No,Cash,In-Store
+ORD-20260624-0429,2026-06-24,20:40:53,CUST0117,Usha Das,North,Jaipur,Anjali Rao,Household,Good Knight Refill,HH-005,16,75,5,Yes,Cash,Distributor
+ORD-20260624-0388,2026-06-24,14:41:13,CUST0092,Ramesh Iyer,South,Bangalore,Vikram Singh,Personal Care,Gillette Mach3 Razor,PC-006,13,350,0,No,Credit,Distributor
+ORD-20260624-0389,2026-06-24,15:58:52,CUST0126,Priya Sharma,Central,Bhopal,Priya Sharma,Beverages,Nescafe Classic 50g,BEV-005,34,210,15,No,Card,Online
+ORD-20260624-0466,2026-06-24,11:56:30,CUST0141,Ajay Shah,South,Kochi,Divya Nair,Personal Care,Head & Shoulders 340ml,PC-002,28,290,10,No,Credit,Distributor
+ORD-20260624-0401,2026-06-24,14:02:42,CUST0206,Anita Joshi,West,Mumbai,Nikhil Joshi,Dairy,Amul Butter 500g,DAI-002,43,260,10,No,UPI,In-Store
+ORD-20260624-0191,2026-06-24,12:33:43,CUST0152,Suresh Nair,West,Mumbai,Anjali Rao,Dairy,Amul Full Cream Milk 1L,DAI-001,27,68,5,No,UPI,Online
+ORD-20260624-0152,2026-06-24,18:09:15,CUST0293,Anita Sharma,East,Kolkata,Priya Sharma,Dairy,Mother Dairy Curd 400g,DAI-003,17,50,10,No,UPI,Online
+ORD-20260624-0482,2026-06-24,11:33:54,CUST0135,Pooja Shah,East,Patna,Sneha Iyer,Snacks,Haldirams Bhujia 400g,SNK-005,42,130,0,No,UPI,In-Store
+ORD-20260624-0270,2026-06-24,10:15:03,CUST0196,Neha Pillai,East,Kolkata,Anjali Rao,Household,Good Knight Refill,HH-005,4,75,0,No,UPI,In-Store
+ORD-20260624-0037,2026-06-24,14:37:32,CUST0022,Priya Reddy,West,Mumbai,Arjun Mehta,Personal Care,Gillette Mach3 Razor,PC-006,28,350,5,No,UPI,In-Store
+ORD-20260624-0145,2026-06-24,19:38:05,CUST0017,Vikram Nair,South,Chennai,Sneha Iyer,Dairy,Amul Full Cream Milk 1L,DAI-001,13,68,0,No,UPI,Distributor
+ORD-20260624-0118,2026-06-24,16:59:07,CUST0247,Manoj Shah,South,Kochi,Divya Nair,Personal Care,Dettol Hand Wash 250ml,PC-005,6,95,0,No,Card,In-Store
+ORD-20260624-0504,2026-06-24,09:18:57,CUST0139,Usha Das,South,Chennai,Divya Nair,Personal Care,Dettol Hand Wash 250ml,PC-005,26,95,15,No,UPI,In-Store
+ORD-20260624-0204,2026-06-24,20:57:47,CUST0042,Sunil Joshi,South,Kochi,Priya Sharma,Snacks,Maggi Noodles 70g,SNK-006,78,14,0,No,Card,In-Store
+ORD-20260624-0507,2026-06-24,10:24:06,CUST0132,Sanjay Sharma,North,Jaipur,Rohan Das,Personal Care,Head & Shoulders 340ml,PC-002,22,290,15,No,UPI,Distributor
+ORD-20260624-0464,2026-06-24,18:51:55,CUST0101,Ramesh Verma,South,Hyderabad,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,25,125,0,No,Card,Online
+ORD-20260624-0316,2026-06-24,14:50:06,CUST0146,Shweta Joshi,East,Kolkata,Pooja Verma,Beverages,Maaza Mango 600ml,BEV-002,31,40,5,No,Credit,Distributor
+ORD-20260624-0218,2026-06-24,14:11:58,CUST0048,Ajay Das,North,Delhi,Rohan Das,Snacks,Kurkure Masala 90g,SNK-002,27,30,0,No,Card,Online
+ORD-20260624-0030,2026-06-24,19:25:46,CUST0218,Ajay Mehta,Central,Nagpur,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,10,14,5,No,Card,Online
+ORD-20260624-0198,2026-06-24,11:20:02,CUST0236,Geeta Kumar,Central,Bhopal,Karan Patel,Snacks,Good Day Biscuits 200g,SNK-004,16,45,5,No,Credit,Distributor
+ORD-20260624-0222,2026-06-24,11:23:40,CUST0285,Ramesh Nair,North,Lucknow,Divya Nair,Beverages,Glucon-D 500g,BEV-006,27,165,5,No,Cash,In-Store
+ORD-20260624-0184,2026-06-24,12:06:55,CUST0001,Sunil Patel,Central,Indore,Rohan Das,Beverages,Nescafe Classic 50g,BEV-005,-2,210,0,No,UPI,Online
+ORD-20260624-0493,2026-06-24,17:40:39,CUST0081,Anita Sharma,Central,Nagpur,Nikhil Joshi,Dairy,Amul Ice Cream 750ml,DAI-006,30,195,0,No,UPI,Distributor
+ORD-20260624-0100,2026-06-24,11:25:51,CUST0172,Usha Kumar,East,Bhubaneswar,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,10,125,0,No,Cash,In-Store
+ORD-20260624-0387,2026-06-24,15:39:39,CUST0181,Amit Das,East,Patna,Priya Sharma,Personal Care,Dove Soap 100g,PC-001,16,55,0,No,Cash,In-Store
+ORD-20260624-0378,2026-06-24,19:36:54,CUST0219,Priya Patel,West,Ahmedabad,Priya Sharma,Dairy,Amul Full Cream Milk 1L,DAI-001,15,68,15,Yes,Credit,Distributor
+ORD-20260624-0350,2026-06-24,15:32:57,CUST0202,Pooja Joshi,North,Delhi,Pooja Verma,Snacks,Haldirams Bhujia 400g,SNK-005,25,130,0,No,UPI,In-Store
+ORD-20260624-0025,2026-06-24,09:33:19,CUST0118,Sunita Joshi,North,Jaipur,Arjun Mehta,Snacks,Maggi Noodles 70g,SNK-006,63,14,15,No,Cash,In-Store
+ORD-20260624-0438,2026-06-24,15:00:49,CUST0186,Sunita Singh,North,Jaipur,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,41,125,10,No,Cash,In-Store
+ORD-20260624-0330,2026-06-24,10:04:04,CUST0018,Arun Patel,North,Jaipur,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,24,14,5,No,Credit,Distributor
+ORD-20260624-0008,2026-06-24,12:31:14,CUST0247,Manoj Shah,East,Bhubaneswar,Anjali Rao,Dairy,Mother Dairy Curd 400g,DAI-003,32,50,15,No,Credit,Distributor
+ORD-20260624-0266,2026-06-24,15:50:49,CUST0283,Meena Mishra,North,Chandigarh,Rohan Das,Dairy,Amul Ice Cream 750ml,DAI-006,15,195,15,No,Card,In-Store
+ORD-20260624-0512,2026-06-24,15:26:22,CUST0002,Amit Mehta,East,Guwahati,Pooja Verma,Beverages,Nescafe Classic 50g,BEV-005,44,210,0,No,Cash,Distributor
+ORD-20260624-0296,2026-06-24,18:12:40,CUST0268,Vikram Reddy,North,Delhi,Sneha Iyer,Snacks,Kurkure Masala 90g,SNK-002,84,30,0,No,Credit,Distributor
+ORD-20260624-0402,2026-06-24,12:19:04,CUST0147,Sanjay Patel,South,Chennai,Anjali Rao,Snacks,Lays Classic 90g,SNK-001,52,30,0,No,UPI,In-Store
+ORD-20260624-0094,2026-06-24,17:05:39,CUST0266,Priya Joshi,South,Kochi,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,53,125,0,No,Credit,Distributor
+ORD-20260624-0058,2026-06-24,15:48:10,CUST0200,Amit Rao,Central,Bhopal,Nikhil Joshi,Personal Care,Gillette Mach3 Razor,PC-006,12,350,0,No,Cash,In-Store
+ORD-20260624-0015,2026-06-24,10:15:04,CUST0225,Ramesh Pillai,Central,Nagpur,Vikram Singh,Beverages,Red Bull 250ml,BEV-003,18,125,5,No,UPI,In-Store
+ORD-20260624-0384,2026-06-24,14:59:43,CUST0114,Usha Verma,South,Hyderabad,Pooja Verma,Dairy,Britannia Cheese Slice,DAI-005,4,115,0,No,UPI,Online
+ORD-20260624-0311,2026-06-24,11:49:55,CUST0234,Arun Mishra,West,Ahmedabad,Divya Nair,Household,Vim Dishwash Gel 500ml,HH-002,26,90,0,No,UPI,In-Store
+ORD-20260624-0453,2026-06-24,11:12:09,CUST0034,Deepa Gupta,North,Delhi,Arjun Mehta,Household,Vim Dishwash Gel 500ml,HH-002,38,90,0,No,Credit,Distributor
+ORD-20260624-0288,2026-06-24,13:21:30,CUST0119,Raj Nair,North,Delhi,Arjun Mehta,Personal Care,Dove Soap 100g,PC-001,27,55,5,No,Credit,Distributor
+ORD-20260624-0521,2026-06-24,19:37:34,CUST0162,Vikram Gupta,North,Jaipur,Vikram Singh,Dairy,Amul Full Cream Milk 1L,DAI-001,18,68,5,No,Cash,In-Store
+ORD-20260624-0375,2026-06-24,09:22:44,CUST0178,Suresh Verma,North,Lucknow,Nikhil Joshi,Dairy,Nestle Munch Milkshake,DAI-004,17,30,0,No,Card,Distributor
+ORD-20260624-0456,2026-06-24,12:12:45,CUST0298,Suresh Pillai,East,Kolkata,Divya Nair,Dairy,Amul Full Cream Milk 1L,DAI-001,8,68,0,No,Card,Online
+ORD-20260624-0443,2026-06-24,12:33:29,CUST0121,Vikram Pillai,North,Delhi,Sneha Iyer,Dairy,Mother Dairy Curd 400g,DAI-003,19,50,0,No,UPI,In-Store
+ORD-20260624-0124,2026-06-24,12:33:18,CUST0044,Priya Joshi,Central,Indore,Karan Patel,Personal Care,Nivea Lotion 200ml,PC-004,8,220,15,No,Cash,In-Store
+ORD-20260624-0009,2026-06-24,11:44:09,CUST0051,Vikram Mehta,East,Patna,Priya Sharma,Beverages,Nescafe Classic 50g,BEV-005,68,210,0,No,Credit,Distributor
+ORD-20260624-0127,2026-06-24,16:40:22,CUST0125,Geeta Patel,East,Guwahati,Vikram Singh,Personal Care,Head & Shoulders 340ml,PC-002,15,290,0,No,Credit,Distributor
+ORD-20260624-0342,2026-06-24,13:23:14,CUST0160,Rahul Nair,West,Pune,Pooja Verma,Personal Care,Gillette Mach3 Razor,PC-006,9,350,15,No,UPI,Online
+ORD-20260624-0257,2026-06-24,10:39:18,CUST0212,Suresh Singh,Central,Indore,Anjali Rao,Personal Care,Colgate Toothpaste 200g,PC-003,20,110,15,No,Credit,Distributor
+ORD-20260624-0103,2026-06-24,18:40:36,CUST0005,Shweta Singh,East,Bhubaneswar,Anjali Rao,Household,Ariel Detergent 1kg,HH-001,4,220,15,No,Card,Distributor
+ORD-20260624-0106,2026-06-24,13:09:22,CUST0075,Manoj Patel,South,Chennai,Divya Nair,Personal Care,Dove Soap 100g,PC-001,4,55,10,No,Cash,In-Store
+ORD-20260624-0329,2026-06-24,11:06:43,CUST0109,Pooja Nair,East,Bhubaneswar,Arjun Mehta,Dairy,Amul Ice Cream 750ml,DAI-006,23,195,5,No,UPI,In-Store
+ORD-20260624-0440,2026-06-24,16:26:14,CUST0282,Vikram Kumar,West,Surat,Sneha Iyer,Personal Care,Nivea Lotion 200ml,PC-004,34,220,0,No,Credit,Distributor
+ORD-20260624-0408,2026-06-24,19:27:45,CUST0141,Ajay Shah,West,Pune,Divya Nair,Dairy,Amul Full Cream Milk 1L,DAI-001,21,68,15,No,Card,Online
+ORD-20260624-0201,2026-06-24,15:04:32,CUST0016,Arun Mehta,South,Chennai,Nikhil Joshi,Beverages,Tropicana Orange 1L,BEV-001,51,95,0,No,UPI,Distributor
+ORD-20260624-0082,2026-06-24,13:46:10,CUST0064,Rekha Reddy,Central,Nagpur,Karan Patel,Dairy,Mother Dairy Curd 400g,DAI-003,29,50,5,No,Credit,Distributor
+ORD-20260624-0475,2026-06-24,15:55:18,CUST0061,Shweta Pillai,West,Ahmedabad,Karan Patel,Personal Care,Head & Shoulders 340ml,PC-002,15,290,0,No,UPI,In-Store
+ORD-20260624-0135,2026-06-24,20:33:20,CUST0211,Sanjay Das,South,Bangalore,Anjali Rao,Household,Scotch Brite Scrub Pad,HH-006,33,45,5,No,Credit,Distributor
+ORD-20260624-0354,2026-06-24,09:07:00,CUST0057,Vikram Shah,South,Hyderabad,Rohan Das,Beverages,Tropicana Orange 1L,BEV-001,22,95,15,No,Credit,Distributor
+ORD-20260624-0467,2026-06-24,13:15:36,CUST0027,,Central,Nagpur,Sneha Iyer,Household,Scotch Brite Scrub Pad,HH-006,21,45,0,No,UPI,In-Store
+ORD-20260624-0428,2026-06-24,19:11:40,CUST0292,Ajay Mishra,Central,Indore,Divya Nair,Household,Vim Dishwash Gel 500ml,HH-002,21,90,10,No,Card,Distributor
+ORD-20260624-0214,2026-06-24,11:46:56,CUST0278,Rahul Iyer,North,Chandigarh,Divya Nair,Dairy,Amul Full Cream Milk 1L,DAI-001,-16,68,0,No,Cash,In-Store
+ORD-20260624-0011,2026-06-24,17:10:35,CUST0174,Rekha Nair,West,Ahmedabad,Arjun Mehta,Household,Vim Dishwash Gel 500ml,HH-002,37,90,15,No,UPI,In-Store
+ORD-20260624-0369,2026-06-24,14:41:10,CUST0044,Priya Joshi,East,Kolkata,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,5,45,15,No,Credit,Online
+ORD-20260624-0383,2026-06-24,17:24:49,CUST0033,Ravi Gupta,South,Hyderabad,Pooja Verma,Snacks,Hide & Seek Cookies 150g,SNK-003,43,55,10,No,Credit,Distributor
+ORD-20260624-0300,2026-06-24,12:18:53,CUST0132,Sanjay Sharma,South,Bangalore,Anjali Rao,Dairy,Nestle Munch Milkshake,DAI-004,30,30,15,No,Cash,In-Store
+ORD-20260624-0249,2026-06-24,10:07:48,CUST0135,Pooja Shah,North,Chandigarh,Divya Nair,Snacks,Hide & Seek Cookies 150g,SNK-003,106,55,5,No,Credit,Distributor
+ORD-20260624-0415,2026-06-24,18:58:59,CUST0053,Usha Mehta,Central,Bhopal,Anjali Rao,Dairy,Britannia Cheese Slice,DAI-005,30,115,5,No,Card,Distributor
+ORD-20260624-0320,2026-06-24,18:40:48,CUST0113,Pooja Reddy,Central,Nagpur,Divya Nair,Snacks,Kurkure Masala 90g,SNK-002,25,30,5,No,UPI,Online
+ORD-20260624-0377,2026-06-24,14:18:50,CUST0211,Sanjay Das,West,Surat,Pooja Verma,Beverages,Bisleri Water 1L,BEV-004,42,20,0,No,Credit,Distributor
+ORD-20260624-0120,2026-06-24,17:54:01,CUST0291,Sanjay Sharma,North,Jaipur,Karan Patel,Household,Ariel Detergent 1kg,HH-001,4,220,0,No,Credit,Distributor
+ORD-20260624-0112,2026-06-24,16:36:53,CUST0212,Suresh Singh,South,Bangalore,Divya Nair,Dairy,Britannia Cheese Slice,DAI-005,50,115,0,No,Credit,Distributor
+ORD-20260624-0052,2026-06-24,19:32:12,CUST0053,Usha Mehta,South,Chennai,Anjali Rao,Beverages,Glucon-D 500g,BEV-006,55,165,0,No,UPI,Distributor
+ORD-20260624-0078,2026-06-24,09:40:10,CUST0237,Raj Pillai,North,Lucknow,Arjun Mehta,Beverages,Red Bull 250ml,BEV-003,16,125,0,No,UPI,In-Store
+ORD-20260624-0503,2026-06-24,13:41:58,CUST0226,Amit Nair,South,Hyderabad,Karan Patel,Personal Care,Head & Shoulders 340ml,PC-002,8,290,5,No,Card,In-Store
+ORD-20260624-0437,2026-06-24,16:41:54,CUST0047,Rahul Nair,West,Pune,Priya Sharma,Household,Harpic Toilet Cleaner,HH-004,45,140,0,No,UPI,Distributor
+ORD-20260624-0041,2026-06-24,12:19:51,CUST0127,,North,Delhi,Priya Sharma,Snacks,Hide & Seek Cookies 150g,SNK-003,44,55,15,No,Card,Online
+ORD-20260624-0248,2026-06-24,14:17:36,CUST0255,Priya Joshi,North,Jaipur,Arjun Mehta,Beverages,Maaza Mango 600ml,BEV-002,19,40,0,No,Credit,Distributor
+ORD-20260624-0479,2026-06-24,19:28:08,CUST0138,Priya Verma,East,Guwahati,Nikhil Joshi,Dairy,Amul Full Cream Milk 1L,DAI-001,9,68,10,No,Cash,In-Store
+ORD-20260624-0413,2026-06-24,10:44:40,CUST0173,Suresh Iyer,North,Jaipur,Karan Patel,Personal Care,Gillette Mach3 Razor,PC-006,2,350,5,No,Cash,In-Store
+ORD-20260624-0022,2026-06-24,17:39:33,CUST0008,Rahul Nair,East,Patna,Karan Patel,Snacks,Lays Classic 90g,SNK-001,37,30,10,No,UPI,Distributor
+ORD-20260624-0129,2026-06-24,12:49:36,CUST0228,Rahul Das,East,Guwahati,Priya Sharma,Dairy,Nestle Munch Milkshake,DAI-004,15,30,15,No,UPI,In-Store
+ORD-20260624-0351,2026-06-24,18:47:27,CUST0070,Sunita Iyer,East,Kolkata,Vikram Singh,Dairy,Nestle Munch Milkshake,DAI-004,12,30,0,No,Cash,In-Store
+ORD-20260624-0044,2026-06-24,15:15:02,CUST0075,Manoj Patel,Central,Nagpur,Arjun Mehta,Beverages,Maaza Mango 600ml,BEV-002,26,40,0,No,Card,Distributor
+ORD-20260624-0246,2026-06-24,20:47:05,CUST0014,Amit Rao,North,Lucknow,Nikhil Joshi,Dairy,Amul Butter 500g,DAI-002,19,260,5,No,Card,Online
+ORD-20260624-0434,2026-06-24,12:27:16,CUST0213,Suresh Gupta,North,Jaipur,Divya Nair,Beverages,Tropicana Orange 1L,BEV-001,10,95,15,No,UPI,Online
+ORD-20260624-0080,2026-06-24,11:17:10,CUST0032,Sanjay Mehta,Central,Indore,Divya Nair,Beverages,Bisleri Water 1L,BEV-004,18,20,0,No,Card,Online
+ORD-20260624-0251,2026-06-24,18:35:31,CUST0094,Ravi Reddy,West,Pune,Pooja Verma,Household,Harpic Toilet Cleaner,HH-004,6,140,15,No,Credit,Distributor
+ORD-20260624-0117,2026-06-24,12:18:15,CUST0150,Rekha Singh,South,Kochi,Sneha Iyer,Snacks,Haldirams Bhujia 400g,SNK-005,31,130,0,No,Cash,Distributor
+ORD-20260624-0181,2026-06-24,10:21:37,CUST0174,Rekha Nair,West,Mumbai,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,12,45,0,Yes,Credit,Distributor
+ORD-20260624-0476,2026-06-24,11:03:20,CUST0115,Shweta Patel,South,Kochi,Arjun Mehta,Snacks,Lays Classic 90g,SNK-001,22,30,0,No,Card,Online
+ORD-20260624-0183,2026-06-24,19:31:39,CUST0003,Meena Joshi,East,Guwahati,Nikhil Joshi,Household,Good Knight Refill,HH-005,18,75,0,No,Credit,Distributor
+ORD-20260624-0155,2026-06-24,12:48:15,CUST0258,Sunil Nair,West,Ahmedabad,Sneha Iyer,Household,Good Knight Refill,HH-005,20,75,15,No,Credit,Distributor
+ORD-20260624-0332,2026-06-24,15:31:07,CUST0262,Sunil Sharma,East,Patna,Vikram Singh,Personal Care,Colgate Toothpaste 200g,PC-003,14,110,0,Yes,UPI,Distributor
+ORD-20260624-0271,2026-06-24,12:17:26,CUST0224,Suresh Verma,East,Patna,Arjun Mehta,Snacks,Lays Classic 90g,SNK-001,68,30,5,No,Cash,Distributor
+ORD-20260624-0276,2026-06-24,18:30:33,CUST0246,Ravi Nair,West,Mumbai,Arjun Mehta,Household,Scotch Brite Scrub Pad,HH-006,14,45,10,No,Cash,In-Store
+ORD-20260624-0205,2026-06-24,13:08:07,CUST0136,Vikram Nair,South,Hyderabad,Nikhil Joshi,Personal Care,Head & Shoulders 340ml,PC-002,8,290,10,No,UPI,Distributor
+ORD-20260624-0309,2026-06-24,19:54:56,CUST0113,Pooja Reddy,South,Bangalore,Pooja Verma,Snacks,Haldirams Bhujia 400g,SNK-005,44,130,0,No,Credit,Distributor
+ORD-20260624-0143,2026-06-24,18:32:54,CUST0100,Amit Singh,West,Ahmedabad,Karan Patel,Dairy,Nestle Munch Milkshake,DAI-004,17,30,5,No,Card,In-Store
+ORD-20260624-0001,2026-06-24,15:51:52,CUST0297,Anita Joshi,South,Chennai,Arjun Mehta,Dairy,Amul Butter 500g,DAI-002,64,260,5,No,Card,Distributor
+ORD-20260624-0501,2026-06-24,20:11:49,CUST0204,Ramesh Patel,Central,Bhopal,Nikhil Joshi,Beverages,Tropicana Orange 1L,BEV-001,27,95,0,No,UPI,Distributor
+ORD-20260624-0454,2026-06-24,14:16:34,CUST0085,Ajay Singh,North,Chandigarh,Divya Nair,Personal Care,Nivea Lotion 200ml,PC-004,21,220,0,No,Card,Distributor
+ORD-20260624-0509,2026-06-24,20:51:27,CUST0213,Suresh Gupta,South,Chennai,Pooja Verma,Household,Vim Dishwash Gel 500ml,HH-002,22,90,15,No,UPI,Distributor
+ORD-20260624-0144,2026-06-24,12:38:33,CUST0021,,West,Mumbai,Vikram Singh,Snacks,Hide & Seek Cookies 150g,SNK-003,37,55,0,No,Card,Online
+ORD-20260624-0314,2026-06-24,20:24:28,CUST0237,Raj Pillai,North,Chandigarh,Anjali Rao,Snacks,Hide & Seek Cookies 150g,SNK-003,51,55,0,No,Credit,Distributor
+ORD-20260624-0472,2026-06-24,11:33:21,CUST0110,Sunita Patel,West,Surat,Karan Patel,Snacks,Lays Classic 90g,SNK-001,68,30,15,No,Card,Distributor
+ORD-20260624-0056,2026-06-24,19:01:42,CUST0174,Rekha Nair,East,Guwahati,Divya Nair,Dairy,Amul Ice Cream 750ml,DAI-006,22,195,0,No,Card,Online
+ORD-20260624-0133,2026-06-24,13:54:03,CUST0012,Meena Reddy,West,Surat,Arjun Mehta,Beverages,Red Bull 250ml,BEV-003,14,125,5,No,Cash,Distributor
+ORD-20260624-0284,2026-06-24,16:40:01,CUST0260,Anita Mishra,North,Chandigarh,Priya Sharma,Dairy,Amul Ice Cream 750ml,DAI-006,15,195,0,No,Card,Online
+ORD-20260624-0334,2026-06-24,20:42:58,CUST0069,Sunil Das,West,Ahmedabad,Nikhil Joshi,Household,Good Knight Refill,HH-005,21,75,0,No,UPI,In-Store
+ORD-20260624-0260,2026-06-24,11:12:43,CUST0017,Vikram Nair,East,Guwahati,Priya Sharma,Snacks,Kurkure Masala 90g,SNK-002,27,30,0,No,Cash,In-Store
+ORD-20260624-0059,2026-06-24,12:16:50,CUST0075,Manoj Patel,West,Ahmedabad,Karan Patel,Beverages,Maaza Mango 600ml,BEV-002,33,40,0,No,Credit,Distributor
+ORD-20260624-0262,2026-06-24,14:24:27,CUST0235,Ramesh Iyer,East,Kolkata,Nikhil Joshi,Beverages,Glucon-D 500g,BEV-006,5,165,0,No,Card,Online
+ORD-20260624-0321,2026-06-24,14:38:46,CUST0200,Amit Rao,West,Ahmedabad,Sneha Iyer,Beverages,Red Bull 250ml,BEV-003,63,125,5,Yes,Credit,Distributor
+ORD-20260624-0460,2026-06-24,19:30:04,CUST0245,Ravi Reddy,North,Chandigarh,Divya Nair,Beverages,Red Bull 250ml,BEV-003,50,125,15,No,UPI,In-Store
+ORD-20260624-0277,2026-06-24,20:43:27,CUST0256,Anita Singh,Central,Raipur,Pooja Verma,Beverages,Bisleri Water 1L,BEV-004,12,20,0,No,UPI,Distributor
+ORD-20260624-0230,2026-06-24,18:12:39,CUST0232,Manoj Iyer,West,Mumbai,Karan Patel,Snacks,Hide & Seek Cookies 150g,SNK-003,24,55,15,No,Cash,In-Store
+ORD-20260624-0012,2026-06-24,19:17:01,CUST0154,Meena Mehta,West,Pune,Nikhil Joshi,Snacks,Lays Classic 90g,SNK-001,11,30,5,No,UPI,Online
+ORD-20260624-0308,2026-06-24,17:13:31,CUST0056,Neha Joshi,North,Chandigarh,Nikhil Joshi,Snacks,Kurkure Masala 90g,SNK-002,15,30,5,No,UPI,Online
+ORD-20260624-0455,2026-06-24,14:12:45,CUST0138,Priya Verma,East,Patna,Rohan Das,Household,Scotch Brite Scrub Pad,HH-006,18,45,0,No,Card,In-Store
+ORD-20260624-0513,2026-06-24,19:35:16,CUST0277,Suresh Reddy,West,Ahmedabad,Karan Patel,Dairy,Amul Butter 500g,DAI-002,11,260,15,No,UPI,In-Store
+ORD-20260624-0079,2026-06-24,14:27:54,CUST0240,Rekha Iyer,Central,Bhopal,Vikram Singh,Beverages,Nescafe Classic 50g,BEV-005,12,210,0,No,Card,Online
+ORD-20260624-0032,2026-06-24,11:14:20,CUST0195,Shweta Patel,South,Hyderabad,Vikram Singh,Personal Care,Nivea Lotion 200ml,PC-004,9,220,10,No,Card,Online
+ORD-20260624-0458,2026-06-24,15:32:48,CUST0242,Kavya Iyer,West,Surat,Nikhil Joshi,Beverages,Maaza Mango 600ml,BEV-002,23,40,10,No,Cash,In-Store
+ORD-20260624-0303,2026-06-24,10:38:05,CUST0165,,Central,Raipur,Anjali Rao,Beverages,Maaza Mango 600ml,BEV-002,3,40,0,No,UPI,Online
+ORD-20260624-0099,2026-06-24,16:17:31,CUST0148,Ajay Joshi,North,Chandigarh,Nikhil Joshi,Personal Care,Dettol Hand Wash 250ml,PC-005,3,95,5,No,Cash,In-Store
+ORD-20260624-0492,2026-06-24,11:56:30,CUST0096,Meena Singh,West,Ahmedabad,Divya Nair,Household,Lizol Floor Cleaner 1L,HH-003,17,175,0,No,Cash,In-Store
+ORD-20260624-0077,2026-06-24,11:25:49,CUST0247,Manoj Shah,West,Surat,Priya Sharma,Household,Good Knight Refill,HH-005,17,75,0,No,UPI,In-Store
+ORD-20260624-0130,2026-06-24,13:52:32,CUST0059,Sunita Kumar,North,Chandigarh,Arjun Mehta,Snacks,Kurkure Masala 90g,SNK-002,51,30,0,No,UPI,Distributor
+ORD-20260624-0289,2026-06-24,15:55:40,CUST0066,Geeta Sharma,West,Ahmedabad,Divya Nair,Personal Care,Colgate Toothpaste 200g,PC-003,8,110,5,No,UPI,In-Store
+ORD-20260624-0232,2026-06-24,09:13:44,CUST0001,Sunil Patel,East,Kolkata,Arjun Mehta,Snacks,Hide & Seek Cookies 150g,SNK-003,39,55,15,No,Cash,In-Store
+ORD-20260624-0020,2026-06-24,15:12:31,CUST0051,Vikram Mehta,North,Jaipur,Priya Sharma,Dairy,Nestle Munch Milkshake,DAI-004,9,30,5,No,Card,Online
+ORD-20260624-0474,2026-06-24,12:24:58,CUST0112,Neha Pillai,East,Bhubaneswar,Divya Nair,Household,Scotch Brite Scrub Pad,HH-006,14,45,0,No,Card,Online
+ORD-20260624-0064,2026-06-24,10:21:45,CUST0005,Shweta Singh,West,Surat,Sneha Iyer,Beverages,Nescafe Classic 50g,BEV-005,28,210,0,No,UPI,In-Store
+ORD-20260624-0219,2026-06-24,16:04:21,CUST0144,Deepa Singh,East,Kolkata,Karan Patel,Household,Vim Dishwash Gel 500ml,HH-002,4,90,0,No,Card,Online
+ORD-20260624-0517,2026-06-24,19:30:48,CUST0165,Deepa Reddy,East,Kolkata,Rohan Das,Dairy,Britannia Cheese Slice,DAI-005,9,115,0,No,Card,Online
+ORD-20260624-0090,2026-06-24,16:18:28,CUST0219,Priya Patel,Central,Nagpur,Vikram Singh,Dairy,Britannia Cheese Slice,DAI-005,20,115,10,No,UPI,Distributor
+ORD-20260624-0101,2026-06-24,19:20:23,CUST0001,Sunil Patel,South,Kochi,Sneha Iyer,Beverages,Maaza Mango 600ml,BEV-002,7,40,0,No,UPI,Online
+ORD-20260624-0202,2026-06-24,18:07:09,CUST0028,Ramesh Singh,North,Lucknow,Divya Nair,Beverages,Nescafe Classic 50g,BEV-005,35,210,5,No,Card,In-Store
+ORD-20260624-0231,2026-06-24,13:46:50,CUST0158,Rahul Sharma,South,Chennai,Rohan Das,Beverages,Maaza Mango 600ml,BEV-002,15,40,10,No,Card,Online
+ORD-20260624-0400,2026-06-24,14:47:31,CUST0053,Usha Mehta,Central,Nagpur,Karan Patel,Snacks,Hide & Seek Cookies 150g,SNK-003,33,55,0,No,Credit,Distributor
+ORD-20260624-0186,2026-06-24,14:53:45,CUST0077,Sunil Nair,South,Chennai,Anjali Rao,Personal Care,Dove Soap 100g,PC-001,22,55,5,No,Credit,In-Store
+ORD-20260624-0193,2026-06-24,16:06:15,CUST0279,Meena Mehta,East,Bhubaneswar,Nikhil Joshi,Beverages,Red Bull 250ml,BEV-003,29,125,0,No,Cash,Distributor
+ORD-20260624-0023,2026-06-24,11:22:15,CUST0126,Priya Sharma,North,Lucknow,Priya Sharma,Beverages,Tropicana Orange 1L,BEV-001,50,95,5,No,UPI,Distributor
+ORD-20260624-0226,2026-06-24,13:51:34,CUST0194,Shweta Joshi,South,Bangalore,Priya Sharma,Personal Care,Dove Soap 100g,PC-001,8,55,15,No,Credit,Distributor
+ORD-20260624-0013,2026-06-24,12:12:12,CUST0068,Shweta Mehta,East,Patna,Nikhil Joshi,Snacks,Maggi Noodles 70g,SNK-006,16,14,10,No,Card,In-Store
