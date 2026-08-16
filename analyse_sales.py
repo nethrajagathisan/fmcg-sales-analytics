@@ -8,11 +8,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import glob
+import os
 
 # Set style
 sns.set_style('whitegrid')
 plt.rcParams['figure.figsize'] = (14, 6)
 SAVE_DPI = 150
+
+# All charts are written here
+CHARTS_DIR = 'charts'
+os.makedirs(CHARTS_DIR, exist_ok=True)
 
 print("="*80)
 print("FMCG SALES ANALYSIS - LOADING DATA")
@@ -128,9 +133,9 @@ for autotext in autotexts:
     autotext.set_fontweight('bold')
 
 plt.tight_layout()
-plt.savefig('category_revenue.png', dpi=SAVE_DPI, bbox_inches='tight')
+plt.savefig(os.path.join(CHARTS_DIR, 'category_revenue.png'), dpi=SAVE_DPI, bbox_inches='tight')
 plt.close()
-print("[OK] Saved: category_revenue.png")
+print(f"[OK] Saved: {CHARTS_DIR}/category_revenue.png")
 
 # Daily Trend
 print("\n[Creating Chart 2: Daily Trend...]")
@@ -169,9 +174,9 @@ ax2.legend()
 ax2.grid(axis='y', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('daily_trend.png', dpi=SAVE_DPI, bbox_inches='tight')
+plt.savefig(os.path.join(CHARTS_DIR, 'daily_trend.png'), dpi=SAVE_DPI, bbox_inches='tight')
 plt.close()
-print("[OK] Saved: daily_trend.png")
+print(f"[OK] Saved: {CHARTS_DIR}/daily_trend.png")
 
 # Regional Performance
 print("\n[Creating Chart 3: Regional Performance...]")
@@ -218,9 +223,9 @@ ax4.set_title('Revenue Efficiency by Region', fontweight='bold')
 ax4.grid(axis='x', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('regional_analysis.png', dpi=SAVE_DPI, bbox_inches='tight')
+plt.savefig(os.path.join(CHARTS_DIR, 'regional_analysis.png'), dpi=SAVE_DPI, bbox_inches='tight')
 plt.close()
-print("[OK] Saved: regional_analysis.png")
+print(f"[OK] Saved: {CHARTS_DIR}/regional_analysis.png")
 
 # Top Products
 print("\n[Creating Chart 4: Top Products...]")
@@ -258,9 +263,9 @@ legend_elements = [Patch(facecolor=colors_map[cat], label=cat) for cat in colors
 ax.legend(handles=legend_elements, loc='lower right')
 
 plt.tight_layout()
-plt.savefig('top_products.png', dpi=SAVE_DPI, bbox_inches='tight')
+plt.savefig(os.path.join(CHARTS_DIR, 'top_products.png'), dpi=SAVE_DPI, bbox_inches='tight')
 plt.close()
-print("[OK] Saved: top_products.png")
+print(f"[OK] Saved: {CHARTS_DIR}/top_products.png")
 
 # Discount Analysis
 print("\n[Creating Chart 5: Discount Impact...]")
@@ -301,9 +306,9 @@ ax2.legend()
 ax2.grid(axis='y', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('discount_analysis.png', dpi=SAVE_DPI, bbox_inches='tight')
+plt.savefig(os.path.join(CHARTS_DIR, 'discount_analysis.png'), dpi=SAVE_DPI, bbox_inches='tight')
 plt.close()
-print("[OK] Saved: discount_analysis.png")
+print(f"[OK] Saved: {CHARTS_DIR}/discount_analysis.png")
 
 # Executive Summary
 print("\n" + "="*80)
@@ -364,8 +369,8 @@ df_sales.to_csv('fmcg_sales_cleaned.csv', index=False)
 print("\n[OK] Cleaned dataset saved: fmcg_sales_cleaned.csv")
 
 print("\n== CHARTS == Generated Files:")
-print("   • category_revenue.png")
-print("   • daily_trend.png")
-print("   • regional_analysis.png")
-print("   • top_products.png")
-print("   • discount_analysis.png")
+print(f"   • {CHARTS_DIR}/category_revenue.png")
+print(f"   • {CHARTS_DIR}/daily_trend.png")
+print(f"   • {CHARTS_DIR}/regional_analysis.png")
+print(f"   • {CHARTS_DIR}/top_products.png")
+print(f"   • {CHARTS_DIR}/discount_analysis.png")
